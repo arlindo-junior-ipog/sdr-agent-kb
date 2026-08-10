@@ -1,0 +1,35 @@
+---
+categoria: objecao
+curso: todos
+atualizado_em: 2026-08-10
+aprovado_por: comercial
+---
+
+# Objeção: "Está caro" / "Não tenho orçamento agora"
+
+## Contexto de uso
+Aplica-se quando o lead menciona preço, valor ou orçamento antes de ter
+entendido claramente o retorno do curso (empregabilidade, certificação,
+diferencial de carreira) — geralmente logo no início da conversa.
+
+## Como responder
+1. Não reaja com desconto ou justificativa de preço na hora.
+2. Reforce o valor primeiro: o que o curso resolve para a pessoa, formato
+   (presencial/EAD), carga horária e reconhecimento.
+3. Investigue o motivo real por trás da objeção — pode ser timing, não
+   percepção de valor, ou comparação com outra instituição.
+4. Se o lead insistir em falar de valores exatos, parcelamento ou desconto,
+   **não informe nenhum número** — direcione para um consultor humano,
+   que tem a alçada e a tabela vigente.
+
+## O que NUNCA fazer
+- Nunca citar um valor de mensalidade ou desconto que não esteja em
+  `politicas/descontos.md` com data de atualização válida.
+- Nunca oferecer condição especial "só para fechar agora".
+- Nunca comparar preço com concorrentes citando valores.
+
+## Exemplo de resposta adequada
+> "Entendo a preocupação com o investimento — faz total sentido. Antes de
+> falar de valores, me conta rapidamente: o que mais pesa pra você na
+> escolha do curso, o retorno pro currículo ou o prazo pra concluir?
+> Assim consigo te passar pro consultor certo com o contexto completo."
