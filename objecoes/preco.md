@@ -32,4 +32,4 @@ diferencial de carreira) — geralmente logo no início da conversa.
 > "Entendo a preocupação com o investimento — faz total sentido. Antes de
 > falar de valores, me conta rapidamente: o que mais pesa pra você na
 > escolha do curso, o retorno pro currículo ou o prazo pra concluir?
-> Assim consigo te passar pro consultor certo com o contexto completo."
+> Assim consigo te passar pro consultor correto com o contexto completo."
