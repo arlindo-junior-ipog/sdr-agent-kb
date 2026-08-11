@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: pos-computacao-forense-seguranca-informacao
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 881
 ---
 
 # Pós-Graduação em Computação Forense e Segurança da Informação
@@ -73,3 +74,9 @@ tema além do necessário para explicar o escopo do módulo ao lead.
 - "Preciso ser da área de TI para fazer?" → O curso é voltado para quem já tem
   formação superior, especialmente em computação/informática; para quem vem de
   outras áreas, recomenda-se confirmar aderência com o consultor antes da matrícula.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O profissional habilitado em Computação Forense e Segurança da Informação pode atuar em diferentes funções para proteger dados, produzir laudos e pareceres fundamentados em análises de vestígios cibernéticos.
+
+**Áreas de atuação:** A pós-graduação remota em Computação Forense e Segurança da Informação permite que os profissionais atuem na área de proteção de dados, em questões forenses e em análises de documentos de natureza técnico-científica no âmbito da justiça criminal e civil.

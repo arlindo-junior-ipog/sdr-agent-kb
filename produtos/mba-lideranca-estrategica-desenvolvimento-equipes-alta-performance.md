@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-lideranca-estrategica-desenvolvimento-equipes-alta-performance
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 701
 ---
 
 # MBA em Liderança Estratégica e Desenvolvimento de Equipes de Alta Performance
@@ -64,3 +65,9 @@ psicologia clínica.
 - "Preciso já ter cargo de liderança para fazer esse MBA?" → Não; é aberto a
   profissionais de todas as áreas interessados em desenvolver competências de
   liderança, não exige cargo formal prévio.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+Com o MBA Liderança Estratégica e Desenvolvimento de Equipes de Alta Performance do IPOG, o profissional será capaz de trabalhar na gestão de empresas e liderança de times, desenvolvendo projetos, criando metas, aumentando a performance, organizando os processos e muito mais! Essa pós-gradução do IPOG serve para a atuação de qualquer profissional: engenheiros, psicólogos, empreendedores, advogados, programadores e qualquer outro que esteja ou deseja assumir uma posição de liderança.
+
+**Áreas de atuação:** Você pode atuar na gestão e liderança de projetos em empresas públicas ou privadas ou como autônomo em seu próprio projeto!

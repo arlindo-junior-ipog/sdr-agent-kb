@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-gestao-qualidade-engenharia-producao
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 44
 ---
 
 # MBA em Gestão da Qualidade e Engenharia da Produção
@@ -73,3 +74,9 @@ MBA de Sistemas de Gestão em Segurança dos Alimentos no IPOG.
   100% EaD/360h/foco em Lean Manufacturing, PPCP e TPM. **Pergunta de desambiguação
   sugerida:** "Seu interesse é mais em qualidade e certificações ISO/Six Sigma, ou em
   metodologias de produção enxuta (Lean/TPS) e manutenção industrial?"
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O mercado exige profissionais que unam conhecimento técnico, visão estratégica e capacidade de inovação. Setores como automotivo, siderúrgico, farmacêutico, alimentício e eletrônico buscam especialistas capazes de implementar melhorias operacionais, reduzir desperdícios e garantir padrões rigorosos de qualidade. Com esse MBA, você estará pronto para atuar como gestor industrial, especialista em qualidade, consultor em processos produtivos ou líder de projetos de otimização.
+
+**Áreas de atuação:** Este MBA oferece uma formação completa para profissionais que desejam atuar na gestão da qualidade, engenharia de produção e otimização de processos industriais. Você poderá aplicar seus conhecimentos em gestão da qualidade e certificações (ISO 9001 e ISO 14001), manufatura enxuta e eficiência operacional (Lean Manufacturing e Six Sigma), integração de tecnologias na Indústria 4.0 (IA e IoT), gestão estratégica da produção e supply chain e planejamento e controle de custos industriais

@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-11
 categoria: produto
 curso: extensao-growth-marketing-trafego-pago-avancado
-atualizado_em: 2026-08-11
-aprovado_por: comercial
+curso_id: 1233
 ---
 
 # Curso de Extensão Universitária: Growth Marketing e Tráfego Pago Avançado
@@ -58,3 +59,9 @@ treinados e mais de 100 organizações atendidas como consultor.
 - "Preciso já saber rodar campanhas de tráfego pago para fazer esse curso?" → É
   recomendado ter alguma base em marketing digital, já que o curso foca em
   estratégias **avançadas**, não em fundamentos básicos de tráfego pago.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O profissional de growth marketing é um ativo valioso. Sua capacidade de se adaptar em diferentes ambientes o torna uma commodity altamente procurada. Com habilidades versáteis, pode encontrar oportunidades em vários setores, desde empresas que oferecem serviços online até as que dependem de estratégias de tráfego pago ou orgânico, assim como startups que operam com aplicativos.
+
+**Áreas de atuação:** O profissional de Growth Marketing é um estrategista, orientado para a experimentação e a formulação de hipóteses. Com um histórico geralmente em áreas como tráfego (publicidade em geral) ou desenvolvimento de produtos, ele busca constantemente novas maneiras de adquirir e reter clientes. Suas habilidades são essenciais em diversas áreas, incluindo marketing digital, desenvolvimento de produtos e análise de dados.

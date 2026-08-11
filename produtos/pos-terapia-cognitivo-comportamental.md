@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: pos-terapia-cognitivo-comportamental
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 582
 ---
 
 # Pós-Graduação em Terapia Cognitivo-Comportamental (TCC)
@@ -72,3 +73,9 @@ esquizofrenia. Membro da ABPMC e ACBr.
 - "É presencial ou online?" → O material aponta as duas informações (capa indica
   presencial; a seção de duração indica aulas online e ao vivo). Confirmar
   modalidade exata com o consultor antes de afirmar ao lead.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+Em razão da constante alta na busca por tratamentos psicológicos, a competitividade do mercado também aumentou. Nesse cenário, contar com uma especialização em Terapia Cognitivo-Comportamental é um excelente diferencial, sobretudo pela área ser a mais buscada pelos pacientes. O curso é indicado para profissionais com formação superior em Psicologia e Medicina, que desejem aperfeiçoar suas habilidades para intervenções em contexto clínico.
+
+**Áreas de atuação:** O profissional especializado em Terapia Cognitivo-Comportamental será capaz de aplicar técnicas empiricamente validadas e analisar os casos clínicos com base em fundamentos evidentes, intervindo em comportamentos humanos complexos.

@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-gestao-projetos-modelagem-engenharias-arquitetura
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 546
 ---
 
 # MBA em Gestão de Projetos com Modelagem para Engenharias e Arquitetura
@@ -82,3 +83,9 @@ coordenador do Escritório de Riscos da Eletrobras.
   **Pergunta de desambiguação sugerida:** "Você atua na área de engenharia/arquitetura
   e quer aplicar gestão de projetos especificamente nesse contexto, ou busca um MBA de
   gestão de projetos mais geral, para qualquer área de negócio?"
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O MBA em Gestão de Projetos com Modelagem para Engenharias e Arquiteturas prepara profissionais para atuar conforme as melhores práticas do Project Management Institute (PMI).
+
+**Áreas de atuação:** O profissional habilitado com o MBA em Gestão de Projetos com Modelagem para Engenharias e Arquiteturas pode trabalhar como gerente de projetos em organizações de diferentes portes, públicas e privadas.

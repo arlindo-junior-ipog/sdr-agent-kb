@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-11
 categoria: produto
 curso: mba-logistica-supply-chain-transportes
-atualizado_em: 2026-08-11
-aprovado_por: comercial
+curso_id: 753
 ---
 
 # MBA em Logística, Supply Chain e Transportes
@@ -65,3 +66,9 @@ Produtividade da ABAD, Escola de Varejo da ABRAS).
 - "Preciso ter formação em Engenharia ou Administração para fazer esse MBA?" → Não;
   é aberto a profissionais graduados em qualquer curso superior que atuem ou
   pretendam atuar como gestores logísticos.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O MBA em Logística, Supply Chain e Transportes do IPOG é uma formação que permite atuar em um mercado que está em alta. O setor oferece diferentes possibilidades de trabalho e crescimento, para a gestão de transporte e o armazenamento de mercadorias.
+
+**Áreas de atuação:** Os profissionais formados no MBA em Logística, Supply Chain e Transportes do IPOG podem atuar em áreas como a gestão mercadológica e da cadeia de suprimentos. Também é possível trabalhar com transporte, gestão de estoque e processamento de pedidos.

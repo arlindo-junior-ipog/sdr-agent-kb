@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-11
 categoria: produto
 curso: extensao-ia-gestao-contabil-tributaria
-atualizado_em: 2026-08-11
-aprovado_por: comercial
+curso_id: 1320
 ---
 
 # Curso de Extensão Universitária: Inteligência Artificial Aplicada à Gestão Contábil e Tributária
@@ -78,3 +79,9 @@ Compliance Contadores Associados.
   mesmos temas de IA aplicada à contabilidade com muito mais profundidade e
   prática. Recomenda-se ao Comercial mapear a família completa de 8 cursos do
   coordenador para orientar o agente corretamente.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+Os profissionais formados neste curso estarão aptos a atuar com análise e automação de processos contábeis e tributários, aplicando Inteligência Artificial para otimizar a gestão fiscal, monitorar riscos e garantir compliance. O conhecimento adquirido permitirá a atuação em empresas de contabilidade, escritórios de auditoria, consultorias tributárias e departamentos fiscais de organizações de todos os portes, além da possibilidade de empreender no desenvolvimento de soluções tecnológicas para a área contábil.
+
+**Áreas de atuação:** Com o avanço da tecnologia, o mercado exige profissionais preparados para utilizar IA na contabilidade e tributação. O conhecimento adquirido neste curso permitirá atuar em empresas contábeis, departamentos fiscais e financeiros de grandes corporações, escritórios de auditoria e consultorias tributárias, além de oportunidades em startups e fintechs que desenvolvem soluções inovadoras para o setor contábil e fiscal.

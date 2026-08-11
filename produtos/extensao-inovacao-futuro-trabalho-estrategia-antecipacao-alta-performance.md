@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: extensao-inovacao-futuro-trabalho-estrategia-antecipacao-alta-performance
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1520
 ---
 
 # Curso de Extensão Universitária: Inovação para o Futuro do Trabalho — Estratégia, Antecipação e Alta Performance

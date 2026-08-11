@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-hidrogenio-verde-transicao-energetica
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1245
 ---
 
 # MBA em Hidrogênio Verde e Transição Energética
@@ -87,3 +88,9 @@ Portugal, Angola).
 - "É um curso muito técnico ou também aborda gestão/negócio?" → Combina conteúdo
   técnico (produção, segurança, engenharia) com conteúdo de gestão (contratos,
   parcerias público-privadas, avaliação de riscos, política energética).
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O especialista nesta área tem um vasto leque de possibilidades, haja vista que a implementação das práticas de ESG têm sido cada dia mais frequente em negócios dos mais variados setores. Isso faz com que o mercado de energias limpas e renováveis, especialmente o de hidrogênio verde, traga uma alta demanda de oportunidades para profissionais capacitados para atuar nas diferentes etapas do processo, desde funções que exigem competências mais técnicas, até funções mais voltadas para o gerenciamento.
+
+**Áreas de atuação:** O profissional sai deste curso apto para desempenhar funções variadas, em empresas ligadas à geração, armazenamento, transporte e comercialização de hidrogênio para o mercado. Ou seja, pode atuar desde áreas mais operacionais como produção e logística, até áreas mais estratégicas como comercialização e gestão de parcerias Público-Privadas.

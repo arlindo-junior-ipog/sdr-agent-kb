@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: pos-psicanalise-criancas-adolescentes
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 492
 ---
 
 # Pós-Graduação em Psicanálise com Crianças e Adolescentes
@@ -89,3 +90,9 @@ Psicanálise Clínica pelo Instituto Sedes Sapientiae.
   clínica de psicólogos), sem aprofundar em casos ou orientações clínicas com o lead.
 - **Restrição de elegibilidade:** curso exclusivo para psicólogos — reforçar isso
   sempre que o lead demonstrar interesse sem confirmar a formação de origem.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O profissional habilitado com a especialização em Psicanálise com Crianças e Adolescentes: Teoria e Clínica desenvolve habilidades para profissionais de psicologia, saúde e educação atuarem com esse público.
+
+**Áreas de atuação:** O profissional formado nessa pós-graduação poderá atuar em consultórios particulares, clínicas e hospitais especializados em atendimento infantil e adolescente. Também poderá lecionar em instituições de ensino ou trabalhar em equipes multiprofissionais em

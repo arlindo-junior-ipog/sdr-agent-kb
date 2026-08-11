@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: pos-master-arquitetura-comercial
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 562
 ---
 
 # Pós-Graduação Master em Arquitetura Comercial
@@ -69,3 +70,9 @@ varejo e serviços (super/hipermercados, restaurantes, centros de distribuição
   mais focado em varejo/retail; os demais têm escopos diferentes (neurociência geral
   aplicada à arquitetura, iluminação técnica, BIM). Se o lead mencionar mais de um
   tema, considerar qual curso é mais aderente ao objetivo comercial dele.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O Master em Arquitetura Comercial permite que você atue em um mercado de trabalho em alta. As empresas buscam profissionais que trabalham com inovação, conhecimento técnico adequado e que auxiliem no posicionamento das suas marcas.
+
+**Áreas de atuação:** O Master em Arquitetura Comercial possibilita a atuação no desenvolvimento de projetos para diferentes estabelecimentos comerciais. O profissional é responsável por projetar, executar e acompanhar obras, junto a uma equipe de engenheiros, eletricistas, entre outros.

@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-psicologia-organizacional-trabalho
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 553
 ---
 
 # MBA em Psicologia Organizacional e do Trabalho
@@ -99,3 +100,9 @@ Trabalho no IPOG, com certificações internacionais em Gestão da Cultura Organ
   saúde mental ocupacional), sem aprofundar em casos ou detalhes clínicos com o lead.
 - Sem seção de documentação necessária no material de origem — não inventar exigências
   até confirmação.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O MBA Psicologia Organizacional e do Trabalho desenvolve as habilidades dos profissionais para atuar em intervenções nas relações entre trabalho, subjetividade, gestão e saúde.
+
+**Áreas de atuação:** Com o MBA Psicologia Organizacional e do Trabalho, você pode atuar como consultor interno ou externo de empresas, para colaborar em processos como recrutamento e seleção, gestão de clima organizacional e desenvolvimento dos colaboradores.

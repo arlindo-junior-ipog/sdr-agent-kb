@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-11
 categoria: produto
 curso: mba-contabilidade-tributos-agronegocio
-atualizado_em: 2026-08-11
-aprovado_por: comercial
+curso_id: 1241
 ---
 
 # MBA em Contabilidade e Tributos no Agronegócio
@@ -91,3 +92,9 @@ do CRC-CE.
   extensão mais curto e com coordenação diferente. Recomenda-se ao Comercial
   revisar os dois materiais lado a lado para garantir que o agente diferencie
   corretamente profundidade (MBA 432h vs. extensão) e coordenação.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O agronegócio segue em crescimento vertiginoso, com previsão de alcançar quase 30% de avanço no acumulado até o final desta década, de acordo com o estudo Projeções do Agronegócio (2023), do Ministério da Agricultura e Pecuária. Diante deste cenário, inúmeras oportunidades surgirão, principalmente com a transformação dos negócios com modelos de gestão mais profissionalizados em toda a cadeia do setor, de ponta a ponta. O mercado para profissionais das áreas contábeis e tributárias é um dos mais promissores devido às especificidades de cada divisão do agronegócio.
+
+**Áreas de atuação:** O profissional com especialização em Contabilidade e Tributos no Agronegócio, pode atuar diretamente na operação contábil para empresas e negócios do setor, até as mais diversas frentes de planejamento e auditoria, fiscais e tributárias, tanto de forma operacional quanto consultiva.

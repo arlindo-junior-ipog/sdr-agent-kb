@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: pos-avaliacoes-pericias-engenharia
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 112
 ---
 
 # Pós-Graduação em Avaliações e Perícias de Engenharia
@@ -63,3 +64,9 @@ Perito Judicial por 25 anos.
 ## Objeções comuns específicas deste curso
 - "Sou arquiteto, posso fazer mesmo não sendo engenheiro civil?" → Sim; o curso é
   aberto a graduados em Engenharia Civil, Agronomia ou Arquitetura.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O mercado de trabalho de Avaliações e Perícias de Engenharia oferece diversas oportunidades para profissionais qualificados. Os profissionais formados conseguem encontrar possibilidades de atuação nos segmentos imobiliário, cível ou jurídico.
+
+**Áreas de atuação:** A Pós-Graduação Avaliações e Perícias de Engenharia possibilita que o aluno desenvolva competências e habilidades para atuação nas áreas de Engenharia Civil, Agronomia e Arquitetura.

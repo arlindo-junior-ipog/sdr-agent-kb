@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-gestao-pessoas-lideranca-positiva
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 877
 ---
 
 # MBA em Gestão de Pessoas e Liderança Positiva
@@ -80,3 +81,9 @@ multinacionais. Também coordena `produtos/mba-gestao-fatores-riscos-psicossocia
   Riscos Psicossociais... NR-01" e "Cultura, Clima, Engajamento e Transformação
   Organizacional"), sugerindo que a extensão pode ser um recorte condensado deste
   MBA. Recomenda-se ao Comercial confirmar a relação entre os dois materiais.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O profissional com o curso de Gestão de Pessoas e Liderança Positiva trabalha a frente de projetos ou setores de uma organização, conduzindo a equipe, criando metas, planejando processos, engajando a equipe, entre outras funções.
+
+**Áreas de atuação:** A formação permite que o profissional atue em qualquer empresa pública ou privada. Você pode atuar em cargos, como gerência, administração ou coordenação de qualquer lugar!

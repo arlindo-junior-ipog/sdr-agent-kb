@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: pos-estruturacao-gestao-clinicas-consultorios
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 142
 ---
 
 # Pós-Graduação em Estruturação e Gestão de Clínicas e Consultórios

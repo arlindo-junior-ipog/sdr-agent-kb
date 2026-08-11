@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-engenharia-portuaria
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 548
 ---
 
 # MBA em Engenharia Portuária
@@ -79,3 +80,9 @@ MBA em Geotecnologias (ver `produtos/mba-geotecnologias.md`).
   desambiguação sugerida quando o lead mencionar "infraestrutura de transportes" de
   forma genérica:** "Seu interesse é especificamente em portos, rodovias, ferrovias,
   ou uma formação mais geral de infraestrutura de transportes?"
+
+## Mercado de Trabalho e Áreas de Atuação
+
+Com o MBA em Engenharia Portuária do IPOG, os profissionais se tornam especialistas capazes que podem contribuir com o entendimento, a modelagem e a implantação de projetos no campo portuário.
+
+**Áreas de atuação:** O MBA em Engenharia Portuária prepara você para uma área de atuação versátil. Dessa forma, você encontra oportunidades de trabalho em agências marítimas, empresas de importação e exportação de logística portuária, além de portos marítimos e hidroviários.

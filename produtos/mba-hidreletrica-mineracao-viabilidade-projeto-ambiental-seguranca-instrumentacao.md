@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-hidreletrica-mineracao-viabilidade-projeto-ambiental-seguranca-instrumentacao
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1528
 ---
 
 # MBA em Hidrelétrica e Mineração: Viabilidade, Projeto, Ambiental, Segurança e Instrumentação

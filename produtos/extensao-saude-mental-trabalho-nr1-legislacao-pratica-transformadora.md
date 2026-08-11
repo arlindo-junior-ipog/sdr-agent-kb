@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: extensao-saude-mental-trabalho-nr1-legislacao-pratica-transformadora
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1387
 ---
 
 # Curso de Extensão Universitária: Saúde Mental no Trabalho e NR-1 — Da Legislação à Prática Transformadora

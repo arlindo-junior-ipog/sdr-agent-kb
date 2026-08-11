@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: extensao-eficiencia-pratica-juridica-familiar
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1338
 ---
 
 # Curso de Extensão Universitária — Eficiência na Prática Jurídica Familiar: Teoria, Provas e Procedimentos

@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-11
 categoria: produto
 curso: pos-llm-direito-tributario-empresarial
-atualizado_em: 2026-08-11
-aprovado_por: comercial
+curso_id: 1014
 ---
 
 # LL.M em Direito Tributário e Empresarial
@@ -88,3 +89,9 @@ do CRCCE, Doutor em Ciências da Informação. Também coordena
   (também do mesmo coordenador, foco em Direito Tributário clássico) — este LL.M
   soma temas societários/sucessórios e falimentares que o outro não cobre com a
   mesma profundidade; ainda assim, vale revisão comparativa.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O LL.M em Direito Tributário e Empresarial é voltado para advogados, contadores, administradores, economistas e demais áreas afins. Com esse curso, eles são capacitados para assessorar empresas com foco em tributação, Direito Societário e Contabilidade.
+
+**Áreas de atuação:** Com essa especialização, o aluno poderá atuar em empresas de todos os portes e segmentos, além disso poderá trabalhar com assessoramento especializado, um patamar a mais do que a prática comum no setor.

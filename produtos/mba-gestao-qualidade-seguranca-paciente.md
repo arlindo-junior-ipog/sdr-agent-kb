@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-gestao-qualidade-seguranca-paciente
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 801
 ---
 
 # MBA em Gestão da Qualidade e Segurança do Paciente
@@ -88,3 +89,9 @@ Organização Nacional de Acreditação (ONA).
   do paciente e gestão da qualidade assistencial, em uma formação executiva mais
   estratégica de liderança e transformação digital em saúde, ou em uma liderança
   executiva ampla (pessoas, financeiro, marketing, operações)?"
+
+## Mercado de Trabalho e Áreas de Atuação
+
+Com o MBA Gestão da Qualidade e Segurança do Paciente, você aprende a desenvolver as ações para a proteção do paciente, além de conhecer os modelos de acreditação que são válidos no Brasil.
+
+**Áreas de atuação:** O MBA Gestão da Qualidade e Segurança do Paciente desenvolve competências profissionais para atuação em serviços de saúde, como hospitais, hospitais de ensino, e centros de assistência.

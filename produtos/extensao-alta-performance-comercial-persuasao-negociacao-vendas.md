@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: extensao-alta-performance-comercial-persuasao-negociacao-vendas
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1471
 ---
 
 # Curso de Extensão Universitária: Alta Performance Comercial — Persuasão, Negociação e Gestão de Vendas

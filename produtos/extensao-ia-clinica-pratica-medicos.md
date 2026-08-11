@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-11
 categoria: produto
 curso: extensao-ia-clinica-pratica-medicos
-atualizado_em: 2026-08-11
-aprovado_por: comercial
+curso_id: 1420
 ---
 
 # Curso de Extensão Universitária: IA Médica — Inteligência na Prática Clínica

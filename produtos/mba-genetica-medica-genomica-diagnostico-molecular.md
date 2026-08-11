@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-genetica-medica-genomica-diagnostico-molecular
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1337
 ---
 
 # MBA em Genética Médica, Genômica e Diagnóstico Molecular
@@ -76,3 +77,9 @@ Counselors (EUA).
   — tema que pode tocar em decisões reprodutivas sensíveis. Trate apenas no nível da
   ementa pública (é conteúdo técnico-acadêmico), sem aprofundar em situações pessoais
   do lead.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+A genética é a medicina do presente e do futuro! A demanda por profissionais capacitados cresce exponencialmente, impulsionada por avanços tecnológicos e pela necessidade de diagnósticos cada vez mais precisos. Empresas de biotecnologia, laboratórios de análises clínicas, centros de pesquisa e universidades estão em busca de especialistas em genética médica. Além disso, a atuação em farmacogenômica e oncogenética expande as oportunidades no setor de saúde, com salários competitivos e crescimento profissional acelerado.
+
+**Áreas de atuação:** O especialista em Genética Médica, Genômica e Diagnóstico Molecular pode atuar em diagnósticos clínicos de doenças genéticas e oncológicas, desenvolver terapias personalizadas em farmacogenômica, participar de pesquisas em biotecnologia e trabalhar como professor em instituições de ensino superior. Além disso, pode prestar consultoria em projetos biotecnológicos e atuar como perito genético em análises forenses.

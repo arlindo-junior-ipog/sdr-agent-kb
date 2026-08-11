@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-11
 categoria: produto
 curso: pos-master-bim-coordenacao-gestao
-atualizado_em: 2026-08-11
-aprovado_por: comercial
+curso_id: 824
 ---
 
 # Master BIM: Coordenação e Gestão (Pós-Graduação)
@@ -81,3 +82,9 @@ no Brasil (ver "Alertas" sobre os múltiplos cursos que coordena no catálogo).
   esclarecer se são produtos comerciais distintos e ativos simultaneamente, ou se
   representam versões/trilhas de uma mesma pós-graduação, para orientar o agente
   corretamente sobre qual oferecer ao lead.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O Master BIM: Coordenação e Gestão oferece a possibilidade de atuar em diferentes projetos de arquitetura e construção civil. A formação atende à demanda do mercado por profissionais que promovam mais eficiência às obras e colaboração entre as equipes.
+
+**Áreas de atuação:** Os profissionais qualificados com o Master BIM: Coordenação e Gestão podem trabalhar na implementação e manutenção de um processo com uso dessa tecnologia. Assim, pode atuar em funções como BIM Manager (gerente BIM) e BIM Coordinator (Coordenador BIM).

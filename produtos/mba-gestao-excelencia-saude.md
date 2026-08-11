@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-gestao-excelencia-saude
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 879
 ---
 
 # MBA em Gestão de Excelência em Saúde
@@ -85,3 +86,9 @@ Paciente e co-coordenadora do MBA em Auditoria de Sistemas de Saúde.
   liderança executiva ampla (pessoas, financeiro, marketing, operações)?"
   Recomenda-se atualizar os outros três arquivos com esta referência cruzada
   quádrupla.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+Com o MBA - Gestão de Excelência em Saúde, você trabalha na administração de hospitais e outros ambientes de saúde, como clínicas, UPAs, pronto-socorro, maternidade entre outros.
+
+**Áreas de atuação:** Você pode atuar na coordenação, liderança, gerenciamento, organização, entre outras atividades relacionadas à gestão.

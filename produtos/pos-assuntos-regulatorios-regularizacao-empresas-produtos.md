@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: pos-assuntos-regulatorios-regularizacao-empresas-produtos
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 786
 ---
 
 # Pós-Graduação em Assuntos Regulatórios: Regularização de Empresas e Produtos
@@ -74,3 +75,9 @@ grandes indústrias farmacêuticas (EMS Sigma Pharma, entre outras).
   (advogados, biólogos, engenheiros de alimentos/produção, enfermeiros, médicos,
   nutricionistas, químicos, veterinários), desde que atuem ou queiram atuar com
   regulação de produtos/empresas.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+A pós-graduação do IPOG em Assuntos Regulatórios desenvolve as suas habilidades e conhecimentos para que implemente ações estratégicas, a fim de guiar a regularização das empresas.
+
+**Áreas de atuação:** O profissional habilitado com a pós-graduação em Assuntos Regulatórios pode atuar em indústrias reguladas, como farmacêuticas, de cosméticos e produtos médicos. Também é possível trabalhar em indústrias de alimentos, saneantes, entre outros produtos.

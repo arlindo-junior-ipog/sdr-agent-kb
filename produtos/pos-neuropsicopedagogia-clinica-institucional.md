@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: pos-neuropsicopedagogia-clinica-institucional
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1039
 ---
 
 # Pós-Graduação em Neuropsicopedagogia Clínica e Institucional
@@ -81,3 +82,9 @@ Guia Prático de Intervenção Infantil".
   grupo). Este curso de Neuropsicopedagogia é o mais amplo em público-alvo (aberto a
   várias profissões de saúde/educação). Recomenda-se ao Comercial revisar os quatro
   lado a lado.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+Quem possui Pós-graduação em Neuropsicopedagogia Clínica e Institucional irá atuar como psicólogo clínico em escolas ou em consultórios. O diferencial desse profissional é a abordagem voltada à neuropsicologia e à avaliação dos transtornos de aprendizagem.
+
+**Áreas de atuação:** A Neuropsicopedagogia permite que o profissional atue tanto em clínicas como em instituições de ensino desenvolvendo avaliações e intervenções por meio de protocolos e testes específicos no atendimento aos pacientes.

@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-gestao-manutencao
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 372
 ---
 
 # MBA em Gestão da Manutenção
@@ -70,3 +71,10 @@ micro e pequenas empresas.
   manutenção predial (normas técnicas, inspeção predial) e é aplicável a qualquer
   setor com ativos físicos a manter (hospitais, condomínios, shoppings, infra
   urbana).
+
+## Mercado de Trabalho e Áreas de Atuação
+
+Nos últimos anos, nos EUA, Europa e Japão, a Função Manutenção passou a ter um destaque fundamental, tornando-se uma atividade de caráter estratégico. Como o fato também chegou no Brasil. 
+Comprovadamente os custos anuais de Manutenção, na maioria das empresas, estimadas por um período de 5 anos, superavam os investimentos médios anuais destas empresas no período.
+
+**Áreas de atuação:** O especialista em Gestão da Manutenção pelo IPOG desenvolve uma visão tática e estratégica da organização e seus aspectos relativos à lucratividade organizacional, sendo capaz de contribuir com o aumento da eficiência, da efetividade e eficácia em todo

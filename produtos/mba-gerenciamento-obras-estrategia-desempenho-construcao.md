@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-gerenciamento-obras-estrategia-desempenho-construcao
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 16
 ---
 
 # MBA em Gerenciamento de Obras: Estratégia e Desempenho da Construção
@@ -81,3 +82,9 @@ coordena) e Sérgio Botassi — Engenheiro Civil (UFES), Doutor em Construção 
   `produtos/mba-projeto-construcao-obras-industriais-especiais.md` (projeto
   estrutural de tipologias especiais). Risco de confusão baixo dado o foco distinto
   de cada um.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O profissional formado no MBA em Gerenciamento de Obras, Qualidade e Desempenho da Construção do IPOG estará apto a atuar como líder na gestão de obras civis, utilizando técnicas e ferramentas para otimizar processos e aumentar a performance em empreendimentos imobiliários. Com uma formação completa em competências técnicas e gerenciais, o profissional estará preparado para atuar em diferentes segmentos da construção civil, como empreendimentos residenciais, comerciais, infraestrutura e edificações públicas.
+
+**Áreas de atuação:** O MBA em Gerenciamento de Obras, Qualidade e Desempenho da Construção do IPOG prepara o profissional para atuar em diversas áreas relacionadas à construção civil, tais como gerenciamento de obras, planejamento e controle de projetos, gestão de equipes, orçamentação, incorporações imobiliárias, entre outras. O mercado de trabalho para este profissional é amplo e inclui construtoras, empreiteiras, empresas de consultoria, órgãos públicos e privados, além de possibilidade de atuação como autônomo.

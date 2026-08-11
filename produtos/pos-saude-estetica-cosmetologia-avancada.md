@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-11
 categoria: produto
 curso: pos-saude-estetica-cosmetologia-avancada
-atualizado_em: 2026-08-11
-aprovado_por: comercial
+curso_id: 528
 ---
 
 # Pós-Graduação em Saúde Estética e Cosmetologia Avançada
@@ -86,3 +87,9 @@ presidente da SBRAFH. Também coordena
   `produtos/pos-farmacia-clinica-gestao-farmaceutica.md`. Este é o único focado em
   saúde estética/cosmetologia (não farmácia hospitalar/clínica geral). Risco de
   confusão baixo dado o foco temático distinto.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O profissional habilitado com a pós-graduação em Saúde Estética & Cosmetologia Avançada pode executar as técnicas estéticas e utilizar os recursos terapêuticos relacionados.
+
+**Áreas de atuação:** Com a especialização em Saúde Estética & Cosmetologia Avançada, você pode se preparar para atuar em espaços como clínicas especializadas, spas, salões de beleza, academias e hospitais.

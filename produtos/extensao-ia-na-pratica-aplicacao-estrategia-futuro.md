@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: extensao-ia-na-pratica-aplicacao-estrategia-futuro
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1424
 ---
 
 # Curso de Extensão Universitária: IA na Prática — Aplicação, Estratégia e Futuro

@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-lideranca-estrategica-gestao-financeira
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 709
 ---
 
 # MBA em Liderança Estratégica e Gestão Financeira
@@ -81,3 +82,9 @@ e Finanças Corporativas do IPOG.
   mais de um tema:** "Sua área de interesse final é mais em finanças/controladoria,
   em gestão de facilities/infraestrutura predial, ou em inovação e estratégia
   competitiva geral?"
+
+## Mercado de Trabalho e Áreas de Atuação
+
+Com o MBA Liderança Estratégica e Gestão Financeira, o profissional trabalha com o planejamento e gestão tributária, negociação e gestão de conflitos, desenvolvimento de equipes, entre outras atividades.
+
+**Áreas de atuação:** Você pode atuar como coordenador, gerente, diretor, gestor ou em outros cargos de liderança. Além disso, é possível atuar na área financeira e tributária da empresa. Oportunidades não faltam!

@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-gestao-estrategica-ti
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 568
 ---
 
 # MBA em Gestão Estratégica de TI

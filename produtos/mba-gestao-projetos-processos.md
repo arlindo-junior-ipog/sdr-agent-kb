@@ -1,8 +1,9 @@
 ---
+aprovado_por: material oficial IPOG (folder do curso)
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-gestao-projetos-processos
-atualizado_em: 2026-08-10
-aprovado_por: material oficial IPOG (folder do curso)
+curso_id: 619
 ---
 
 # MBA em Gestão de Projetos e Processos

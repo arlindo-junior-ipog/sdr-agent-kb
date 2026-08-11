@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: pos-design-mobiliario
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 593
 ---
 
 # Pós-Graduação em Design de Mobiliário
@@ -84,3 +85,9 @@ premiada em concursos de design (1º lugar Prêmio Inovação Suvinil/Masisa/Mod
   Interiores com tripla certificação internacional). Este curso é o único com foco
   100% em design de mobiliário. Risco de confusão baixo dado o foco distinto, mas
   vale registro para o Comercial.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+Com a Pós-Graduação em Design Mobiliário do IPOG, você estará preparado para atuar em um mercado em constante crescimento e desenvolver projetos de móveis únicos e inovadores. Seja um profissional diferenciado e conquiste seu espaço no mercado de design mobiliário!
+
+**Áreas de atuação:** Após concluir a Pós-Graduação em Design Mobiliário, você estará apto a atuar em diversas áreas, como design de móveis para residências, escritórios, hotéis, restaurantes e muito mais. Torne-se um especialista em design mobiliário e explore todas as possibilidades de atuação nesse mercado promissor!

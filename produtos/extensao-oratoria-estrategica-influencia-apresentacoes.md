@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-11
 categoria: produto
 curso: extensao-oratoria-estrategica-influencia-apresentacoes
-atualizado_em: 2026-08-11
-aprovado_por: comercial
+curso_id: 1413
 ---
 
 # Curso de Extensão Universitária: Oratória Estratégica e Influência — Apresentações de Alto Impacto para o Sucesso Profissional

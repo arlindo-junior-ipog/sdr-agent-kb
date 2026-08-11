@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: pos-psicologia-juridica-pericia-psicologica
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 773
 ---
 
 # Pós-Graduação em Psicologia Jurídica com Ênfase em Perícia Psicológica
@@ -87,3 +88,9 @@ com atuação técnico-especializada em Perícia Psicológica Forense. Também c
 - Mesmo coordenador (Lucas Dannilo Aragão Guimarães) da `produtos/pos-parentalidade.md`
   — cursos com focos distintos (perícia forense ampla vs. parentalidade), mas com
   sobreposição temática pontual em perícia de família/guarda.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+A atuação do psicólogo jurídico tem ganhado cada vez mais relevância no Brasil, sendo essencial em processos judiciais e administrativos. O mercado está em expansão, com oportunidades em tribunais, defensorias, ministérios públicos, unidades prisionais, ONGs e centros de mediação de conflitos. Profissionais capacitados são requisitados para atuar como peritos judiciais, assistentes técnicos, consultores e avaliadores psicológicos, auxiliando na tomada de decisões judiciais em diversas áreas do direito.
+
+**Áreas de atuação:** Com esta pós-graduação, você poderá atuar em diversas áreas da Psicologia Jurídica, como Perícia Psicológica e Assistência Técnica em Processos Judiciais, elaborando laudos e pareceres técnicos; Avaliação Psicológica Forense, utilizando metodologias específicas em casos de violência doméstica, abuso infantil, guarda e visitas, entre outros; Mediação e Conciliação de Conflitos, auxiliando em negociações extrajudiciais e soluções pacíficas; Psicologia no Sistema Prisional, contribuindo para a ressocialização e avaliação de detentos; e Atuação em Varas Cíveis, Criminais, Trabalhistas e de Família, oferecendo suporte técnico e científico para embasar decisões judiciais.

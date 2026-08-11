@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: pos-engenharia-seguranca-trabalho
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 63
 ---
 
 # Pós-Graduação em Engenharia de Segurança do Trabalho
@@ -79,3 +80,9 @@ Regional do Trabalho e Emprego de Goiás (SRTE-GO).
   público elegível (agora apenas Engenharia e Arquitetura; a versão anterior incluía
   também Agronomia). Se a versão anterior ainda estiver em uso em algum outro canal,
   pode haver informação desatualizada circulando — vale confirmar com o Comercial.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O mercado de trabalho de Engenharia de Segurança do Trabalho está em evidência, por conta dos benefícios para a saúde e redução de acidentes. O profissional habilitado é capaz de cuidar do ambiente de trabalho, para que os funcionários atuem com segurança.
+
+**Áreas de atuação:** O profissional que se forma em Engenharia de Segurança do Trabalho pode trabalhar em diversas empresas, como indústrias e agroindústrias. É possível atuar em pequenas ou grandes companhias, seja como prestador de serviço ou como funcionário efetivo.

@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-11
 categoria: produto
 curso: pos-master-bim-infraestrutura-geoprocessamento
-atualizado_em: 2026-08-11
-aprovado_por: comercial
+curso_id: 1305
 ---
 
 # Master BIM: Infraestrutura e Geoprocessamento (Pós-Graduação)
@@ -73,3 +74,9 @@ múltiplos cursos que coordena no catálogo).
   diferentes (este é 360h EaD; os outros dois são 432h On-line e Ao Vivo).
   **Recomendação:** Comercial deve esclarecer a relação entre os três antes do
   merge, para o agente não confundir ou omitir opções ao lead.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+A área de BIM e Geoprocessamento está em plena expansão, acompanhando as crescentes demandas do setor de infraestrutura e construção. Com a exigência de maior eficiência, sustentabilidade e precisão, empresas de engenharia, arquitetura e planejamento urbano buscam profissionais que dominem essas ferramentas para gerenciar projetos complexos e otimizados. A implementação do BIM em obras públicas e privadas, assim como o uso de GIS para análise e planejamento de espaços geoespaciais, já são mandatórias em muitos países, e o Brasil segue essa tendência. Isso gera uma alta demanda por especialistas capazes de integrar dados digitais e geoespaciais na concepção e execução de projetos. Além disso, o domínio dessas tecnologias oferece um diferencial competitivo que abre portas em grandes empresas, construtoras, órgãos públicos e até no setor de tecnologia.
+
+**Áreas de atuação:** O profissional especializado nessa área pode ocupar cargos em construtoras, escritórios de arquitetura e urbanismo, empresas de engenharia, além de atuar em projetos do governo e de órgãos públicos voltados à urbanização e desenvolvimento territorial. Você também terá a possibilidade de trabalhar como consultor ou gestor de projetos, liderando equipes multidisciplinares e integrando soluções tecnológicas que aumentam a eficiência dos processos construtivos e a sustentabilidade dos empreendimentos. Além disso, há uma crescente demanda por especialistas que possam lidar com a implementação de novas tecnologias em BIM e GIS, seja na gestão de obras, no monitoramento de recursos naturais, ou no desenvolvimento de cidades inteligentes (smart cities).

@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-11
 categoria: produto
 curso: mba-gerenciamento-obras-produtividade-construcoes-ia
-atualizado_em: 2026-08-11
-aprovado_por: comercial
+curso_id: 695
 ---
 
 # MBA em Gerenciamento de Obras e Produtividade nas Construções com Inteligência Artificial
@@ -92,3 +93,9 @@ cursos que coordena).
   `produtos/mba-engenharia-estruturas-fundacoes-tecnologias-digitais-inteligentes.md`
   e de Sérgio Botassi em
   `produtos/mba-projeto-construcao-obras-industriais-especiais.md`.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+Trabalhe como supervisor, coordenador, gerente e demais cargos de gestão na construção civil, gerindo contratos, administrando o controle de qualidade, otimizando os recursos e melhorando o desempenho da obra do geral.
+
+**Áreas de atuação:** Utilize seu MBA em Gerenciamento de Obras, Produtividade e Tecnologia da Construção para atuar em diversos projetos de arquitetura, engenharia e demais campos da construção civil. Com essa especialização, você tem a chance de atuar em qualquer tipo de obra e conquistar a sua oportunidade no mercado.

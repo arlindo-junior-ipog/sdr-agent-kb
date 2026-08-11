@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-incorporacoes-negocios-imobiliarios
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 594
 ---
 
 # MBA em Incorporações e Negócios Imobiliários
@@ -74,3 +75,9 @@ Flávio Sohler (ver "Alertas" sobre os múltiplos cursos que coordena no catálo
   Este curso tem ementa claramente distinta dos demais (foco em incorporação e
   avaliação imobiliária), risco de confusão baixo, mas soma mais um curso à família
   de produtos coordenados por ele.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O MBA Incorporações e Negócios Imobiliários do IPOG aprofunda as suas competências para atuar como gestor, ampliando os seus conhecimentos nas áreas de direito, economia, engenharia, administração e vendas.
+
+**Áreas de atuação:** O MBA Incorporações e Negócios Imobiliários aprimora seus conhecimentos para atuar na administração de empresas desse segmento. Desse jeito, você consegue propor soluções com base nas práticas mais recomendadas de gestão.

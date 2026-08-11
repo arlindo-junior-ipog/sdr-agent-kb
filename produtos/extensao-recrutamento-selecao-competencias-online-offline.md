@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: extensao-recrutamento-selecao-competencias-online-offline
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 218
 ---
 
 # Curso de Extensão Universitária: Recrutamento e Seleção por Competências Online e Offline

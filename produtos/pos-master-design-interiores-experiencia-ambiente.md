@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-11
 categoria: produto
 curso: pos-master-design-interiores-experiencia-ambiente
-atualizado_em: 2026-08-11
-aprovado_por: comercial
+curso_id: 1365
 ---
 
 # Master em Design de Interiores e Experiência do Ambiente (Pós-Graduação)

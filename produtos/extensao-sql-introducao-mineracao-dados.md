@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: extensao-sql-introducao-mineracao-dados
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 942
 ---
 
 # Curso de Extensão Universitária: SQL com Introdução à Mineração de Dados
@@ -55,3 +56,15 @@ Computação (UFG), MBA em Governança nas Tecnologias da Informação (IPOG).
 - "Preciso ter experiência em programação para fazer esse curso?" → Não; é indicado
   para qualquer área, preferencialmente com alguma noção prévia de dados ou bancos de
   dados, mas não exige experiência em programação.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+A demanda por profissionais que dominam SQL e mineração de dados está em alta, especialmente com o aumento das empresas que buscam por estratégias baseadas em dados. Seja em tecnologia, finanças, saúde ou marketing, o mercado exige especialistas capazes de organizar e analisar grandes volumes de informações. Quem domina essas áreas pode atuar em projetos estratégicos de BI, Big Data e desenvolvimento de sistemas de banco de dados.
+
+**Áreas de atuação:** Ao concluir o curso, você estará apto a atuar em diversas áreas, como:
+
+Administração de Banco de Dados: Gestão e otimização de sistemas de banco de dados.
+Mineração de Dados: Aplicação de técnicas para descoberta de padrões e tendências.
+Business Intelligence: Construção de soluções de inteligência de negócios utilizando grandes volumes de dados.
+Desenvolvimento de Sistemas: Criação de soluções de software que dependem de banco de dados robustos e bem estruturados.
+Data Warehousing: Construção e manutenção de armazéns de dados para análises corporativas.

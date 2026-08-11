@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: extensao-formacao-analise-comportamental
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1082
 ---
 
 # Curso de Extensão Universitária: Formação de Análise Comportamental
@@ -58,3 +59,8 @@ Especialização em Avaliação Psicológica.
   principal das 4 teorias de mapeamento trabalhadas, mas não afirme certificação
   DISC oficial de terceiros sem confirmar com o consultor — trate como formação do
   IPOG em análise comportamental.
+
+## Mercado de Trabalho e Áreas de Atuação
+A Formação de Análise Comportamental abre oportunidades para trabalhar com gestão de pessoas, consultoria de desenvolvimento de carreiras, R&S, T&D, impulsionamento de liderança e team building, além de alinhamento de estratégias dentro de organizações.
+
+**Áreas de atuação:** Quem faz o curso de análise comportamental pode trabalhar no setor de TH/RH de empresas de todos os portes, realizar consultorias especializadas em desenvolvimento de times e lideranças, bem como oferecer cursos e palestras na área.

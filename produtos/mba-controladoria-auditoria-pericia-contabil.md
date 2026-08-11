@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-controladoria-auditoria-pericia-contabil
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 689
 ---
 
 # MBA em Controladoria, Auditoria e Perícia Contábil
@@ -95,3 +96,9 @@ Ceará), autor dos livros "Descomplicando o SPED" e "Caminhos do Empreendedorism
 - Há ainda um terceiro curso do mesmo coordenador,
   `produtos/mba-contabilidade-tributaria-inteligencia-fiscal.md`, focado na Reforma
   Tributária e IA aplicada à rotina fiscal (com dupla certificação).
+
+## Mercado de Trabalho e Áreas de Atuação
+
+Com o MBA em Controladoria, Auditoria e Perícia Contábil, você pode atuar em um mercado de trabalho que envolve empresas e organizações de terceiro setor. Também é possível trabalhar junto a instituições financeiras, bancos e planos de saúde.
+
+**Áreas de atuação:** O MBA em Controladoria, Auditoria e Perícia Contábil desenvolve competências para que os profissionais atuem na elaboração de planejamento estratégico de instituições. É possível ainda trabalhar nos segmentos de controladoria e auditoria das organizações.

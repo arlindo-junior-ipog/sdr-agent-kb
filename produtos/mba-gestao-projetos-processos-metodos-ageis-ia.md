@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-gestao-projetos-processos-metodos-ageis-ia
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1366
 ---
 
 # MBA em Gestão de Projetos e Processos com Métodos Ágeis e Inteligência Artificial
@@ -87,3 +88,14 @@ capacitados. Provedor credenciado pela ABPMP Internacional.
   (`produtos/mba-gestao-projetos-modelagem-engenharias-arquitetura.md`), que tem
   público mais específico (engenharia/arquitetura) e outra coordenação (Flávio
   Sohler).
+
+## Diferenciais do curso
+- Certificação internacional Yellow Belt em Lean Six Sigma (oportunidade dentro da formação).
+- Domínio de frameworks reconhecidos: PMBOK, CBOK, BPM, Lean Six Sigma, BSC.
+- Aplicação prática de inteligência artificial e metodologias ágeis em contextos de gestão de projetos e processos.
+- Desenvolvimento de soft skills exigidas pelo mercado: liderança adaptativa, inteligência emocional, comunicação e negociação.
+- Módulo internacional opcional em parceria com Harvard, Poli.Design ou University of La Verne.
+- Professores com experiência em consultoria, grandes corporações e projetos de transformação digital.
+
+## Mercado de trabalho e áreas de atuação
+Formação voltada para quem quer atuar em gestão de projetos, análise e redesenho de processos, transformação digital, inovação, governança, planejamento estratégico, PMOs, customer experience e áreas de tecnologia e operações — em consultorias, grandes corporações ou startups. Cargos típicos: gestor de projetos, analista de processos, product owner, agile coach, gerente de transformação.

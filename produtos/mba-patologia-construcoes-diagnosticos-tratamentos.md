@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-patologia-construcoes-diagnosticos-tratamentos
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 699
 ---
 
 # MBA em Patologia das Construções: Diagnósticos e Tratamentos
@@ -84,3 +85,9 @@ construções.
 - **Restrição de elegibilidade:** curso restrito a graduados em Engenharia Civil,
   Agronomia ou Arquitetura — reforçar sempre que o lead não confirmar a formação de
   origem.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+Você trabalha na criação de laudos, vistorias e perícia judicial, recuperação e reforço de estruturas de concreto armado, diagnósticos, prevenção e tratamentos de fissuras, entre outras funções. Hoje, o piso salarial do especialista em patologia das construções é em torno de R$12.000,00 mensais.
+
+**Áreas de atuação:** A pós-graduação em Patologia das Construções - Diagnósticos e Tratamentos oferece oportunidades de atuação em projetos de arquitetura, engenharia e demais campos da construção civil. Ideal também para profissionais do CREA, CAU, SENGE, SINDUSCON, IBAPE, SARQ e construtoras.

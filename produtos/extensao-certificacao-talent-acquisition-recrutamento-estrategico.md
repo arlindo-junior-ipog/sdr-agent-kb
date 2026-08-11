@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: extensao-certificacao-talent-acquisition-recrutamento-estrategico
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1526
 ---
 
 # Curso de Extensão Universitária: Certificação em Talent Acquisition — Recrutamento Estratégico com Tecnologia e People Analytics

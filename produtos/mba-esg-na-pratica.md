@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-11
 categoria: produto
 curso: mba-esg-na-pratica
-atualizado_em: 2026-08-11
-aprovado_por: comercial
+curso_id: 1137
 ---
 
 # MBA em ESG na Prática
@@ -67,3 +68,9 @@ CETESB e FUNBEA.
 - "Esse curso é só para quem trabalha com meio ambiente?" → Não; é aberto a
   profissionais de qualquer área que queiram atuar com ESG em sentido amplo,
   incluindo governança, direitos humanos e investimento social privado.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+Os profissionais capacitados em ESG são cada vez mais valorizados pelas empresas que buscam adotar práticas sustentáveis. Com o MBA ESG na Prática do IPOG, você terá a oportunidade de se especializar em uma das áreas mais promissoras do mercado de trabalho. Com as habilidades adquiridas, você será capaz de contribuir para o sucesso das empresas em que atuar, bem como para o desenvolvimento de uma sociedade mais justa e sustentável.
+
+**Áreas de atuação:** Com a crescente importância da sustentabilidade e da responsabilidade socioambiental, profissionais capacitados em ESG têm amplas oportunidades de atuação em empresas de diversos setores. Com o MBA ESG na Prática do IPOG, você terá a possibilidade de se especializar em uma das áreas mais promissoras do mercado, podendo atuar em consultorias, organizações não governamentais, entidades regulatórias, entre outras possibilidades

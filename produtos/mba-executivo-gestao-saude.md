@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-executivo-gestao-saude
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 563
 ---
 
 # MBA Executivo Gestão em Saúde
@@ -81,3 +82,9 @@ e `produtos/mba-gestao-qualidade-seguranca-paciente.md` (ver "Alertas").
   digital, ou em uma liderança executiva ampla (pessoas, financeiro, marketing,
   operações)?" Recomenda-se atualizar os outros três arquivos com esta referência
   cruzada quádrupla.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+Os profissionais matriculados no MBA Executivo Gestão em Saúde podem realizar planejamento e gestão estratégica em saúde. Desse modo, eles se preparam para assumir cargos de liderança e gestão.
+
+**Áreas de atuação:** Com o MBA Executivo em Gestão de Saúde, você pode atuar na administração de diferentes ambientes do setor. Clínicas, hospitais, consultórios e outros centros médicos buscam profissionais qualificados em gestão.

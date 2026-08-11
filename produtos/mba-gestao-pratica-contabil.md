@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-gestao-pratica-contabil
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 842
 ---
 
 # MBA em Gestão e Prática Contábil
@@ -85,3 +86,9 @@ Santa Casa de São Paulo.
   **Pergunta de desambiguação sugerida:** "Você busca aprofundar técnica contábil/
   tributária, ou aprender a gerir e fazer crescer seu próprio negócio contábil?"
   Recomenda-se atualizar os outros três arquivos com esta referência cruzada.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O MBA - Gestão e Prática Contábil oferece a possibilidade do profissional ir além da contabilidade da empresa e atuar de maneira estratégica na corporação, podendo assumir cargos de coordenador, gestor, entre outros.
+
+**Áreas de atuação:** Suas possibilidades de atuação são enormes. Você pode atuar em qualquer empresa ou indústria. Inclusive, se quiser, pode montar seu próprio negócio na área.

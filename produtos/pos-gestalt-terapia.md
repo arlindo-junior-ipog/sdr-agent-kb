@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: pos-gestalt-terapia
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1359
 ---
 
 # Pós-Graduação em Gestalt-Terapia

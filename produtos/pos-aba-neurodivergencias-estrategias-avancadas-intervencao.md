@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: pos-aba-neurodivergencias-estrategias-avancadas-intervencao
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1467
 ---
 
 # Pós-Graduação em ABA e Neurodivergências: Estratégias Avançadas de Intervenção

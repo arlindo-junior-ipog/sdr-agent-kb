@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-11
 categoria: produto
 curso: mba-gestao-negocios-controladoria-financas-corporativas-ia
-atualizado_em: 2026-08-11
-aprovado_por: comercial
+curso_id: 10
 ---
 
 # MBA em Gestão de Negócios, Controladoria, Finanças Corporativas e Inteligência Artificial
@@ -78,3 +79,9 @@ Governança Corporativa). Também co-coordena
   (valuation, M&A, turnaround), presencial e mais longo. Risco de confusão baixo
   dado o contraste de profundidade, mas vale nota para o Comercial sobre a
   progressão entre os dois.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+Em um ambiente de forte competição, as decisões precisam ser sustentadas. Por isso, os profissionais que atuam em cargos de decisão devem possuir especializações, como o MBA Gestão de Negócios, Controladoria e Finanças Corporativas do IPOG.
+
+**Áreas de atuação:** O profissional especializado em MBA Gestão de Negócios, Controladoria e Finanças Corporativas reconhece os problemas empresariais e sabe tratá-los, conduzindo as empresas a patamares mais elevados de lucratividade, de rentabilidade dos investimentos e de longevidade em tempos de crise, como os que estamos vivendo.

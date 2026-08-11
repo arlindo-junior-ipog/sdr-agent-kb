@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: extensao-projeto-execucao-instalacoes-prediais
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 702
 ---
 
 # Curso de Extensão Universitária: Projeto e Execução de Instalações Prediais — Hidráulica, Elétrica, Sanitárias, Águas Pluviais e Gás
@@ -72,3 +73,9 @@ coordena no catálogo).
   instalações prediais, mas focado em software BIM em vez de dimensionamento
   técnico-normativo) — vale nota para o Comercial considerar oferecer os dois juntos
   como trilha de aprendizagem.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O profissional especializado em Projeto E Execução De Instalações Prediais: Hidráulica, Elétrica, Sanitárias, Águas Pluviais e Gás atua no planejamento e gerenciamento das instalações e reformas, bem como na conservação de equipamentos e suprimentos. Seu principal objetivo é atender às normas de saúde e segurança.
+
+**Áreas de atuação:** Com o curso de curta duração Projeto E Execução De Instalações Prediais: Hidráulica, Elétrica, Sanitárias, Águas Pluviais e Gás você conseguirá atuar na inspeção de estruturas prediais, determinando a necessidade de reparos ou restaurações.

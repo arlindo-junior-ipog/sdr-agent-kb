@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-geotecnologias
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 408
 ---
 
 # MBA em Geotecnologias
@@ -80,3 +81,9 @@ diversas pós-graduações e MBAs de engenharia na instituição.
   infraestrutura no IPOG, incluindo `produtos/mba-engenharia-rodoviaria.md` e
   `produtos/mba-engenharia-portuaria.md` — temas distintos de Geotecnologias, risco de
   confusão baixo.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+A Pós-graduação em Geotecnologias do IPOG desenvolve as suas competências para atuar com ferramentas tecnológicas de coleta, processamento e análise de informações, considerando sistemas de referência geográfica.
+
+**Áreas de atuação:** Ao concluir a Pós-graduação em Geotecnologias, você se torna capaz de atuar em um campo versátil. As oportunidades podem ser encontradas em serviços públicos de saneamento e energia elétrica, além de gestão municipal e agronegócios.

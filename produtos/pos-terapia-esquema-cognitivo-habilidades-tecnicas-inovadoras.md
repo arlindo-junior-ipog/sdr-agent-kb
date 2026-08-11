@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: pos-terapia-esquema-cognitivo-habilidades-tecnicas-inovadoras
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1143
 ---
 
 # Pós-Graduação em Terapia do Esquema Cognitivo: Habilidades Técnicas Inovadoras para Dinamização da Prática Clínica
@@ -77,3 +78,9 @@ Alvares Júnior (ver outros cursos que coordena em "Alertas").
   emocionais persistentes?"
 - **Restrição de elegibilidade:** curso restrito a Psicologia e Medicina — reforçar
   sempre que o lead não confirmar a formação de origem.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+Com a Pós-Graduação em Terapia do Esquema Cognitivo oferecida pelo IPOG, o profissional estará apto a oferecer uma abordagem terapêutica completa e abrangente, capaz de lidar com comportamentos complexos e desafios emocionais profundos. Com conhecimentos aprofundados e experiência prática, o especialista se destaca no mercado da saúde mental, entregando resultados efetivos aos seus pacientes.
+
+**Áreas de atuação:** Após concluir a Pós-Graduação em Terapia do Esquema Cognitivo, o profissional estará habilitado a atuar em diversas áreas da saúde mental, como transtornos de personalidade, ansiedade e humor, entre outros. Com habilidades técnicas inovadoras e uma abordagem terapêutica completa, o aluno estará apto a oferecer resultados efetivos aos seus pacientes, se destacando no mercado da saúde mental.

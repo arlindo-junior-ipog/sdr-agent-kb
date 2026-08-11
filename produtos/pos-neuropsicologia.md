@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: pos-neuropsicologia
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 38
 ---
 
 # Pós-Graduação em Neuropsicologia
@@ -91,3 +92,9 @@ Francisco/SP). Diretor Clínico da Clínica Luria. Também coordena
   esta referência cruzada quádrupla.
 - **Restrição de elegibilidade:** curso exclusivo para graduados em Psicologia —
   reforçar sempre que o lead não confirmar a formação de origem.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+A pós-graduação do IPOG em Assuntos Regulatórios desenvolve as suas habilidades e conhecimentos para que implemente ações estratégicas, a fim de guiar a regularização das empresas.
+
+**Áreas de atuação:** O profissional habilitado com a pós-graduação em Assuntos Regulatórios pode atuar em indústrias reguladas, como farmacêuticas, de cosméticos e produtos médicos. Também é possível trabalhar em indústrias de alimentos, saneantes, entre outros produtos.

@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-mercados-financeiros-capitais
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 418
 ---
 
 # MBA em Mercados Financeiros e de Capitais
@@ -65,3 +66,9 @@ Máxima, entre outras). Agente Autônomo de Investimento certificado pela CVM e 
   prepara o conhecimento de base para essas certificações, mas a certificação em si é
   obtida em exame próprio da ANBIMA/APIMEC/outras entidades — não prometa
   certificação automática.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O MBA Mercados Financeiros e de Capitais é indicado para profissionais que atuam nas áreas de Finanças e Investimentos e que precisam desenvolver sólido conhecimento e experiência aplicada com relação aos mercados, produtos, estratégias e regulamentações
+
+**Áreas de atuação:** Os profissionais com MBA Mercados Financeiros e de Capitais podem atuar diretamente no mercado financeiro, bem como prestar serviços de consultorias e gestão de investimentos.

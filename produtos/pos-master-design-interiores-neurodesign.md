@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-11
 categoria: produto
 curso: pos-master-design-interiores-neurodesign
-atualizado_em: 2026-08-11
-aprovado_por: comercial
+curso_id: 1364
 ---
 
 # Master em Design de Interiores e Neurodesign (Pós-Graduação)

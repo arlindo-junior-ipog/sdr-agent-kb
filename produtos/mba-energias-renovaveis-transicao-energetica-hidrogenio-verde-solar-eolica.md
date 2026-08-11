@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-energias-renovaveis-transicao-energetica-hidrogenio-verde-solar-eolica
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1527
 ---
 
 # MBA em Energias Renováveis e Transição Energética: Hidrogênio Verde, Solar e Eólica

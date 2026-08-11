@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-contabilidade-tributaria-inteligencia-fiscal
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 711
 ---
 
 # MBA em Contabilidade Tributária e Inteligência Fiscal
@@ -94,3 +95,9 @@ Perícia Contábil e do MBA em Direito Tributário, Compliance e Auditoria Digit
   ampla em controladoria e perícia, uma imersão clássica em direito tributário, uma
   formação atualizada focada na Reforma Tributária e automação fiscal com IA, ou
   quer aprender a gerir/crescer o próprio negócio contábil?"
+
+## Mercado de Trabalho e Áreas de Atuação
+
+A contabilidade fiscal e tributária é um campo essencial para garantir o sucesso de qualquer empresa. Com o MBA do IPOG, o profissional tem o grande diferencial de explorar sistemas informatizados e seu melhor aproveitamento para a performance contábil.
+
+**Áreas de atuação:** A especialização permite vasto campo de atuação profissional, permitindo trabalho em escritório de contabilidade, setor fiscal de empresas de todos os portes e segmentos, além de ajudar na aprovação em concursos nas áreas de auditoria fiscal e perícia contábil.

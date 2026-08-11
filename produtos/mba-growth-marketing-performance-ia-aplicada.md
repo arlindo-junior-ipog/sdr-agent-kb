@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-growth-marketing-performance-ia-aplicada
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1513
 ---
 
 # MBA em Growth Marketing, Performance e IA Aplicada

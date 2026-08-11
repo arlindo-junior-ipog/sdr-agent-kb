@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: pos-master-fisioterapia-manejo-dor
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1289
 ---
 
 # Pós-Graduação Master em Fisioterapia no Manejo da Dor
@@ -71,3 +72,9 @@ Médicas (UFRJ), Mestre em Ciências Morfológicas (UFRJ) e em Saúde Pública (
   pública com o lead.
 - **Restrição de elegibilidade:** curso exclusivo para fisioterapeutas — reforçar
   sempre que o lead demonstrar interesse sem confirmar a formação de origem.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+A demanda por fisioterapeutas especialistas em dor só cresce. Com o envelhecimento da população, o aumento de doenças crônicas e a valorização da saúde interdisciplinar, o fisioterapeuta com domínio técnico e clínico no manejo da dor se torna peça-chave em clínicas, hospitais, centros esportivos, reabilitação oncológica, entre outros.
+
+**Áreas de atuação:** Com essa especialização, você estará habilitado a atuar no atendimento de pacientes com dor crônica, neuropática e nociplástica; em reabilitação oncológica e pós-cirúrgica; no cuidado de populações especiais como idosos, gestantes, crianças e pessoas com deficiência; além de integrar equipes multidisciplinares e atuar com atletas de alto rendimento. Tudo isso em ambientes como clínicas, hospitais, consultórios, home care e centros de reabilitação.

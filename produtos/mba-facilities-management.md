@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-facilities-management
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 659
 ---
 
 # MBA em Facilities Management
@@ -65,3 +66,9 @@ corporativo.
   diplomados em qualquer curso de graduação relacionado ao tema (administração,
   arquitetura, engenharia, tecnólogos), desde que atuem ou queiram atuar com operação
   de edificações e infraestrutura.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O profissional especializado com o MBA em Facilities Management atua no gerenciamento dos serviços terceirizados de infraestrutura predial, telefonia, segurança patrimonial e limpeza.
+
+**Áreas de atuação:** O mercado para o gestor de facilities é bastante amplo, com oportunidades em hospitais, indústrias, bancos e instituições de ensino.

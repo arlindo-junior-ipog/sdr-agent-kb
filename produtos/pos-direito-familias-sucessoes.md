@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: pos-direito-familias-sucessoes
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1016
 ---
 
 # Pós-Graduação em Direito das Famílias e Sucessões
@@ -65,3 +66,9 @@ Federal da OAB (gestão 2022/2025).
   profissionais com curso superior em áreas afins ao Direito ou com notório saber em
   ciências sociais, desde que a graduação seja reconhecida pelo MEC — mas o público
   natural e a aplicação prática do curso são para advogados.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+Com a especialização em Direito de Família e Sucessões, o profissional estará apto a atuar em escritórios de advocacia, departamentos jurídicos e consultorias, desenvolvendo habilidades críticas para solucionar conflitos e prestando serviços de excelência para organizações que lidam com questões patrimoniais e pessoais.
+
+**Áreas de atuação:** O especialista em Direito de Família e Sucessões poderá atuar em diversas áreas do Direito, tais como planejamento sucessório, elaboração de contratos, inventários, partilhas e outros procedimentos relacionados à sucessão hereditária. Também poderá atuar na esfera do Direito de Família, solucionando conflitos referentes a guarda, alimentos e divórcio, além de prestar assessoria jurídica a empresas e organizações que lidam com questões patrimoniais e sucessórias.

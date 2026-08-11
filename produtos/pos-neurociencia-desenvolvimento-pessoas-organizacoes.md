@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: pos-neurociencia-desenvolvimento-pessoas-organizacoes
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 882
 ---
 
 # Pós-Graduação em Neurociência Aplicada ao Desenvolvimento de Pessoas e Organizações
@@ -64,3 +65,9 @@ organizações como Caixa Econômica Federal, Exército Brasileiro e Banco do Br
 - "Tem aula ao vivo em horário fixo?" → Não; é um curso 100% EaD assíncrono (vídeoaulas
   autorais e práticas on-line), sem necessidade de participação em horário fixo — bom
   para quem tem agenda apertada ou não pode se comprometer com fins de semana fixos.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O profissional formado em Neurociência Aplicada ao Desenvolvimento de Pessoas e Organizações atua diretamente no desenvolvimento dos colaboradores, bem como na gestão de negócios e na elaboração de estratégias de marketing.
+
+**Áreas de atuação:** O curso de Neurociência Aplicada ao Desenvolvimento de Pessoas e Organizações abre as portas para oportunidades na área de desenvolvimento de pessoas, gestão de negócios, marketing, desenvolvimento de sistemas informatizados, arquitetura, design e na educação.

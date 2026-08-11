@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-11
 categoria: produto
 curso: mba-gestao-negocios-energia-eletrica-fontes-renovaveis
-atualizado_em: 2026-08-11
-aprovado_por: comercial
+curso_id: 1353
 ---
 
 # MBA em Gestão de Negócios de Energia Elétrica e Fontes Renováveis
@@ -74,3 +75,9 @@ consumidores e geradores de energia.
   coordenação diferente. Este curso é mais orientado a negócios/tarifas/regulação e
   inclui fontes renováveis (solar/eólica/biomassa) como módulos próprios.
   Recomenda-se ao Comercial revisar os dois lado a lado.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O mercado de energia elétrica e fontes renováveis vive um momento de forte expansão, impulsionado pela transição energética, avanço tecnológico e crescimento do mercado livre. Com o Brasil liderando a adoção de fontes limpas e metas ambiciosas de descarbonização, cresce a demanda por profissionais com visão estratégica e domínio técnico em áreas como regulação, finanças, sustentabilidade e inovação. Cargos como gestor de energia, analista regulatório, consultor em eficiência energética e executivo de comercialização estão em alta, tanto em grandes empresas do setor quanto em startups, concessionárias e consultorias especializadas. Quem domina a lógica dos negócios de energia se torna peça-chave para liderar projetos sustentáveis, inovadores e economicamente viáveis em um dos segmentos mais estratégicos da economia.
+
+**Áreas de atuação:** As oportunidades de atuação são amplas e estratégicas. Você poderá atuar em empresas de geração, transmissão, distribuição e comercialização de energia, bem como em consultorias especializadas, órgãos reguladores, startups de energia limpa, concessionárias e entidades governamentais ligadas ao setor energético. Com uma formação robusta em regulação, finanças, planejamento e sustentabilidade, o profissional estará preparado para ocupar cargos como gestor de energia, analista regulatório, consultor em eficiência energética, executivo de comercialização ou empreendedor no segmento de fontes renováveis. Além disso, estará apto a liderar projetos inovadores, desenvolver estratégias de transição energética e atuar como ponte entre a visão técnica e os objetivos de negócio, agregando valor em um dos setores mais relevantes da economia brasileira.

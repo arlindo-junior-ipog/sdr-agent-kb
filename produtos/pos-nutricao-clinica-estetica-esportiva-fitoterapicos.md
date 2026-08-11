@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: pos-nutricao-clinica-estetica-esportiva-fitoterapicos
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 765
 ---
 
 # Pós-Graduação em Nutrição Clínica, Estética, Esportiva e Prescrição de Fitoterápicos
@@ -79,3 +80,9 @@ Hospitalar. Ambos também coordenam o MBA em Farmácia Oncológica e Hospitalar 
   legais diferentes para prescrever/indicar fitoterápicos e suplementos (definidos
   pelo respectivo Conselho de Classe) — não afirme ao lead que o curso por si só
   autoriza a prescrição, isso depende da regulamentação da profissão de origem.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+A pós-graduação remota Nutrição Clínica, Esportiva e Prescrição de Fitoterápicos atende a uma demanda de profissionais especializados para a promoção da saúde e do bem-estar dos indivíduos, por meio do acompanhamento nutricional.
+
+**Áreas de atuação:** O profissional especializado em Nutrição Clínica, Esportiva e Prescrição de Fitoterápicos está preparado para atuar, conforme o seu conselho de classe, em consultórios, hospitais, clínicas, farmácias, academias, entre outros ambientes.

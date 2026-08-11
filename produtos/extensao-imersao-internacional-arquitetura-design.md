@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: extensao-imersao-internacional-arquitetura-design
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1070
 ---
 
 # Curso de Extensão Universitária: Imersão Internacional em Arquitetura e Design
@@ -79,3 +80,9 @@ Corpo docente formado majoritariamente por professores do Politecnico di Milano
 - **Idioma das aulas não confirmado no material de origem** — como o corpo docente é
   majoritariamente italiano, recomenda-se ao Comercial confirmar se há tradução/
   legendas antes de posicionar para leads preocupados com barreira de idioma.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+Nos últimos anos, temos testemunhado um crescimento significativo na oferta de vagas de Arquitetura, Urbanismo e Design de Interiores pelo país. Esse aumento não apenas intensificou a competição nesse setor, mas também ampliou as oportunidades de atuação para os profissionais. À medida que observamos esse crescimento, torna-se evidente a necessidade dos profissionais da área transcenderem as fronteiras culturais. Essas influências internacionais desempenham um papel crucial no enriquecimento dos projetos de arquitetura e design de interiores. Em um campo profissional tão dinâmico e em constante evolução, é essencial que o futuro arquiteto esteja preparado para enfrentar esse cenário competitivo.
+
+**Áreas de atuação:** As possibilidades de atuação para arquitetos e designers são vastas, incluindo consultorias, empresas de construção civil e escritórios de arquitetura e design em todo o mundo. Essa área abrange desde o planejamento urbano até o design de interiores. O arquiteto pode desempenhar um papel fundamental ao projetar e supervisionar a construção de edifícios e espaços físicos, assegurando que sejam funcionais, esteticamente agradáveis, seguros e sustentáveis. Já o profissional de design de interiores é responsável pela projeção, montagem e organização de ambientes internos, considerando diversos aspectos como iluminação, ventilação, ergonomia, cores, posicionamento do mobiliário e movimentação de pessoas.

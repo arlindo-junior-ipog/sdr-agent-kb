@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-engenharia-rodoviaria
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 704
 ---
 
 # MBA em Engenharia Rodoviária
@@ -73,3 +74,10 @@ o MBA em Geotecnologias (`produtos/mba-geotecnologias.md`).
   MBAs de infraestrutura de transportes mencionados no material mas não encontrados
   em `originais/` nesta rodada — Ferroviária e Infraestrutura de Transportes e
   Rodovias).
+
+## Mercado de Trabalho e Áreas de Atuação
+
+Com o MBA Engenharia Rodoviária, o profissional pode atuar em qualquer fase do um projeto rodoviário: 
+projeto, execução, fiscalização e manutenção de obras. É uma pós-graduação interessante para graduados nas áreas das Engenharias, Economia, Administração, Geografia e Direito; além de empresários, executivos e profissionais dos setores empresarial, comercial, de serviços, da administração pública/privada e educação com interesse em projetos no setor rodoviário.
+
+**Áreas de atuação:** Você pode atuar em obras de urbanização, construção de rodovias e ferrovias, obras de terraplenagem, entre outros projetos relacionados. Nesse caso, é possível trabalhar como CLT em construtoras, servidor em órgãos públicos e autônomo em projetos.

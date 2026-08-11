@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-11
 categoria: produto
 curso: extensao-formacao-marketing-digital-ia
-atualizado_em: 2026-08-11
-aprovado_por: comercial
+curso_id: 1410
 ---
 
 # Curso de Extensão Universitária: Formação em Marketing Digital com Inteligência Artificial

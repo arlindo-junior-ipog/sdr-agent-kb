@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: extensao-lideranca-comunica-presenca-influencia-resultado
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1518
 ---
 
 # Curso de Extensão Universitária: Liderança que Comunica — Presença, Influência e Resultado

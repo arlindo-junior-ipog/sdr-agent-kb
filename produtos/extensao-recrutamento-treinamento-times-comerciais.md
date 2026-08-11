@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: extensao-recrutamento-treinamento-times-comerciais
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1010
 ---
 
 # Curso de Extensão Universitária: Recrutamento e Treinamento de Times Comerciais

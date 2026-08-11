@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-11
 categoria: produto
 curso: mba-psicologia-positiva-saude-mental-bem-estar-organizacoes
-atualizado_em: 2026-08-11
-aprovado_por: comercial
+curso_id: 1097
 ---
 
 # MBA em Psicologia Positiva, Saúde Mental e Gestão do Bem-Estar nas Organizações
@@ -79,3 +80,9 @@ momento — ver "Alertas").
   Humano" do IPOG — este curso não foi localizado entre os PDFs processados até o
   momento. Recomenda-se ao Comercial confirmar se esse curso irmão existe
   ativamente e, se sim, adicioná-lo ao catálogo com a devida referência cruzada.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+Com o MBA em Desenvolvimento Humano, Psicologia Positiva e Bem-Estar nas Organizações, você adquire conhecimentos teóricos e práticos para se tornar um especialista em gestão de pessoas, desenvolvendo habilidades em liderança, comunicação e relacionamentos interpessoais. Com a crescente valorização do fator humano no ambiente corporativo, o profissional formado neste curso se diferencia no mercado de trabalho e se destaca como um agente de transformação em sua organização.
+
+**Áreas de atuação:** O especialista formado pelo MBA em Desenvolvimento Humano, Psicologia Positiva e Bem-Estar nas Organizações está preparado para atuar como líder em processos de mudança, promovendo o desenvolvimento pessoal e profissional dos colaboradores. Com foco em resultados e em um ambiente saudável, o profissional é capaz de gerir equipes de alta performance e potencializar os talentos da organização.

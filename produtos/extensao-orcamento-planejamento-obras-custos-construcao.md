@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: extensao-orcamento-planejamento-obras-custos-construcao
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 265
 ---
 
 # Curso de Extensão Universitária: Orçamento e Planejamento de Obras e Custos da Construção
@@ -57,3 +58,9 @@ públicas.
   para alunos de graduação em Engenharia Civil, Arquitetura e Tecnologia, e para
   profissionais de outras áreas (Administração, Economia) que lidam com custos de
   construção.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O mercado de trabalho de orçamento e planejamento de obras e custos da construção busca profissionais com perfil técnico sólido e uma visão global das diferentes etapas que envolvem uma obra.
+
+**Áreas de atuação:** Os profissionais habilitados com o curso de Orçamento e planejamento de obras e custos da construção podem atuar em empresas de construção civil e engenharia, mas também há oportunidade de atuar como autônomo.

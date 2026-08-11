@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: pos-gestao-estrategica-cidades-inteligentes
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 36
 ---
 
 # Pós-Graduação em Gestão Estratégica de Cidades Inteligentes
@@ -65,3 +66,9 @@ Urbanismo e Paisagismo.
   aberto a profissionais de diversas áreas (gestão pública, TI, empreendedorismo)
   interessados em soluções urbanas inteligentes, não exclusivo de arquitetura/
   engenharia.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+Os profissionais especializados em Atenção Farmacêutica e Farmácia Clínica são habilitados para contribuir com a melhoria dos resultados farmacoterapêuticos e com a qualidade de vida do paciente.
+
+**Áreas de atuação:** A Pós em Atenção Farmacêutica e Farmácia Clínica prepara profissionais para trabalhar em empresas privadas e órgãos públicos, no âmbito da farmácia e drogaria. As farmácias hospitalares e as unidades básicas de saúde também estão entre os ambientes de atuação deste profissional

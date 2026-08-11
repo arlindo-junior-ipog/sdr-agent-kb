@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: pos-master-bim-expert-processos-modelagem-projeto
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 430
 ---
 
 # Pós-Graduação Master BIM Expert: Processos de Modelagem e Projeto
@@ -71,3 +72,9 @@ da ANFA no Brasil (ver "Alertas" sobre os outros cursos que coordena).
   temas distintos (BIM técnico vs. neurociência aplicada vs. iluminação), risco de
   confusão baixo, mas útil registrar a mesma pessoa coordenando três cursos de
   arquitetura/design no catálogo.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+A pós-graduação em Ferramentas de Gestão e Projeto oferece a oportunidade de trabalhar em obras de arquitetura, engenharias e demais áreas da construção civil. Com essa especialização, você consegue se destacar em qualquer obra.
+
+**Áreas de atuação:** O Master BIM forma profissionais para atuarem como gerentes, administradores ou coordenadores de projetos e qualquer outro profissional da área de construção civil que queira melhorar a gestão das suas obras e tornar o processo mais eficiente.

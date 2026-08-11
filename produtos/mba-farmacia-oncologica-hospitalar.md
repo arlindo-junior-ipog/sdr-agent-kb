@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-farmacia-oncologica-hospitalar
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 440
 ---
 
 # MBA em Farmácia Oncológica e Hospitalar
@@ -84,3 +85,9 @@ Farmácia Hospitalar. Ambos também coordenam
   "paciente oncológico terminal e finitude" (módulo 7) — tema técnico-acadêmico
   legítimo da farmácia clínica, mas deve ser tratado apenas no nível da ementa
   pública com o lead, sem aprofundar aspectos emocionais/sensíveis.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O profissional habilitado na pós-graduação em Farmácia Oncológica e Hospitalar apresenta competências para atuar na produção, armazenamento, controle, dispensação e distribuição de medicamentos e correlatos em unidades hospitalares.
+
+**Áreas de atuação:** Ao realizar a formação em Farmácia Oncológica e Hospitalar, você pode atuar em serviços de oncologia em hospitais, clínicas, atendimento domiciliar, centros de pesquisas e outros ambientes relacionados.

@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: pos-master-iluminacao
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 989
 ---
 
 # Pós-Graduação Master em Iluminação
@@ -72,3 +73,9 @@ pelo Instituto Politecnico di Milano (Itália). Também coordena o
   desambiguação sugerida:** "Seu interesse é especificamente em projetos técnicos de
   iluminação, ou em neurociência aplicada à arquitetura de forma mais ampla
   (incluindo iluminação, mas também percepção, biofilia e comportamento)?"
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O Master em Iluminação capacita profissionais para atender a uma demanda por especialistas em projetos de iluminação inovadores. Quem se especializa na área pode atuar com a elaboração de espaços mais confortáveis e funcionais.
+
+**Áreas de atuação:** O Master em Iluminação prepara você para promover soluções de iluminação em diferentes ambientes. Com a pós-graduação, é possível encontrar oportunidades de atuação nas áreas corporativa, residencial e comercial.

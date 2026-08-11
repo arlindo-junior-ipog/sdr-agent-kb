@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: extensao-nova-era-fiscal-reforma-tributaria
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1400
 ---
 
 # Curso de Extensão Universitária: Nova Era Fiscal — Aplicações Reais da Reforma Tributária

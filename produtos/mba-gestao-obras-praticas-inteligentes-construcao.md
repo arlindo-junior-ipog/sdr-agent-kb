@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-gestao-obras-praticas-inteligentes-construcao
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 842
 ---
 
 # MBA em Gestão de Obras e Práticas Inteligentes na Construção
@@ -71,3 +72,9 @@ in Concrete Construction Award 2018 (American Concrete Institute).
   Não foi possível confirmar nesta rodada se os dois têm coordenadores/ementas
   totalmente distintos ou se há sobreposição relevante — recomenda-se ao Comercial
   revisar os dois materiais lado a lado antes do merge.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O MBA - Gestão e Prática Contábil oferece a possibilidade do profissional ir além da contabilidade da empresa e atuar de maneira estratégica na corporação, podendo assumir cargos de coordenador, gestor, entre outros.
+
+**Áreas de atuação:** Suas possibilidades de atuação são enormes. Você pode atuar em qualquer empresa ou indústria. Inclusive, se quiser, pode montar seu próprio negócio na área.

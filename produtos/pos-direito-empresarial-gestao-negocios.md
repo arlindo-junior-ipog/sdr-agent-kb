@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: pos-direito-empresarial-gestao-negocios
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1357
 ---
 
 # Pós-Graduação em Direito Empresarial, Gestão e Negócios

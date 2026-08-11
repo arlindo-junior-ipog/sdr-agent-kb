@@ -1,8 +1,9 @@
 ---
+aprovado_por: material oficial IPOG (folder do curso)
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-sistemas-gestao-seguranca-alimentos
-atualizado_em: 2026-08-10
-aprovado_por: material oficial IPOG (folder do curso)
+curso_id: 705
 ---
 
 # MBA em Sistemas de Gestão da Segurança dos Alimentos
@@ -44,3 +45,9 @@ Profissionais com formação em nível de mestrado/doutorado e experiência prá
 
 ## Documentação necessária para inscrição
 Diploma de graduação original, cópia de RG e CPF, ID profissional, CNH. A ficha de cadastro e as orientações de inscrição devem ser solicitadas a um consultor.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+Com o MBA Sistemas de Gestão da Segurança de Alimentos, você pode atuar na condução de sistemas desse tipo, considerando as normas que envolvem o segmento, em toda a abrangência da cadeia produtiva.
+
+**Áreas de atuação:** Os profissionais especializados com o MBA Sistemas de Gestão da Segurança de Alimentos podem atuar em indústrias alimentícias e serviços de alimentação, para a produção e disposição de alimentos seguros para os consumidores.

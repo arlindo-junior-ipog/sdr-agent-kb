@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-11
 categoria: produto
 curso: extensao-midias-sociais-estrategia-conteudo-resultados
-atualizado_em: 2026-08-11
-aprovado_por: comercial
+curso_id: 287
 ---
 
 # Curso de Extensão Universitária: Mídias Sociais — Estratégia, Conteúdo e Resultados

@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-gestao-empresarial-inovacao-estrategia-competitiva
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 346
 ---
 
 # MBA em Gestão Empresarial, Inovação e Estratégia Competitiva
@@ -66,3 +67,9 @@ Exército Brasileiro, Banco do Brasil).
   e co-coordenador do `produtos/mba-facilities-management.md`, todos em formato EaD
   assíncrono. Conteúdos são distintos (gestão empresarial generalista vs. neurociência
   vs. facilities), risco de confusão baixo.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O profissional com MBA Gestão Empresarial, Inovação e Estratégia Competitiva é qualificado para otimizar processos, organizar os colaboradores e auxiliá-los durante a execução das suas atividades.
+
+**Áreas de atuação:** Você pode atuar com o MBA Gestão Empresarial, Inovação e Estratégia Competitiva nas áreas de gestão de várias empresas privadas e públicas.

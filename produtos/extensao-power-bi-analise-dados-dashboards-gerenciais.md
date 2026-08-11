@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: extensao-power-bi-analise-dados-dashboards-gerenciais
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 838
 ---
 
 # Curso de Extensão Universitária: Microsoft Power BI — Análise de Dados Corporativos e Criação de Dashboards Gerenciais
@@ -72,3 +73,9 @@ Financeira.
   versão(ões) de carga horária/modalidade estão realmente ativas antes do merge,
   para evitar que o agente informe uma carga horária ou modalidade desatualizada ao
   lead.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O profissional especialista em Power BI trabalha na elaboração de relatórios e dashboards na ferramenta, bem como análise de dados e preparação de informações. Atualmente, o especialista na ferramenta chega a receber de 5.500,00 a R$ 7.000,00.
+
+**Áreas de atuação:** A área de atuação é extremamente abrangente. Com o curso Microsoft Power Bi – Análise De Dados Corporativos E Criação De Dashboards Gerenciais, você pode atuar na parte de administração ou análise de dados de qualquer empresa ou indústria.

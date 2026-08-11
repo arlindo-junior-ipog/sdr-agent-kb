@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-11
 categoria: produto
 curso: mba-gestao-saa-ses-agua-esgoto
-atualizado_em: 2026-08-11
-aprovado_por: comercial
+curso_id: 493
 ---
 
 # MBA em Gestão de Sistemas de Abastecimento de Água (SAA) e Sistemas de Esgotos Sanitários (SES)
@@ -68,3 +69,9 @@ construções e avaliação de imóveis.
 ## Objeções comuns específicas deste curso
 - "Esse curso é só para engenheiros?" → Não; o programa acolhe formações diversas
   (Engenharias, Ciências Biológicas e Humanas) voltadas à área de saneamento.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+Os profissionais formados pelo MBA Gestão de Sistemas de Abastecimento de Água (SAA) e Sistemas de Esgotos Sanitários (SES) poderão atuar em empresas de saneamento, órgãos reguladores, consultorias ambientais e empresas de engenharia, gerenciando e liderando equipes e projetos.
+
+**Áreas de atuação:** Com o curso de MBA em Gestão de Sistemas de Abastecimento de Água (SAA) e Sistemas de Esgotos Sanitários (SES), o profissional estará habilitado para atuar em empresas públicas e privadas de saneamento, concessionárias de água e esgoto e órgãos reguladores.

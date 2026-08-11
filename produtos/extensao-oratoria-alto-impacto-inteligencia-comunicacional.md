@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: extensao-oratoria-alto-impacto-inteligencia-comunicacional
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 996
 ---
 
 # Curso de Extensão Universitária: Oratória de Alto Impacto, Inteligência Comunicacional e Apresentações Inspiradoras
@@ -59,3 +60,9 @@ Agência Comunicação Conectada.
 - "Esse curso serve só para quem vai palestrar profissionalmente?" → Não; é
   indicado para qualquer profissional que precise se comunicar melhor no dia a dia
   (reuniões, entrevistas, vídeos, provas orais), não apenas para palestrantes.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O Curso de Oratória de Alto Impacto, Inteligência Comunicacional e Apresentações Inspiradoras pode ser feito por profissionais de todas as áreas e de diferentes níveis hierárquicos, passando mais credibilidade e inspirando pessoas nas comunicações.
+
+**Áreas de atuação:** As habilidades de comunicação irão ajudar profissionais de todas as áreas a elaborarem apresentações de forma mais clara, desenvolverem ideias durante reuniões e a passarem mais confiança e profissionalismo em conversas/negociações.

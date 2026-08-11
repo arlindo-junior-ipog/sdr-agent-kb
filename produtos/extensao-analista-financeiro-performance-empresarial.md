@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: extensao-analista-financeiro-performance-empresarial
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1427
 ---
 
 # Curso de Extensão Universitária: Analista Financeiro e Performance Empresarial

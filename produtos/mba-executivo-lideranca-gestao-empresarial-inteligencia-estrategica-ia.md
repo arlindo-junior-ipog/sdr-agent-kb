@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-executivo-lideranca-gestao-empresarial-inteligencia-estrategica-ia
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 18
 ---
 
 # MBA Executivo em Liderança, Gestão Empresarial e Inteligência Estratégica com IA
@@ -91,3 +92,9 @@ catálogo (ver "Alertas").
   EAESP-FGV/UT Austin, ex-Diretor de RH do TJ-GO, ex-Diretor Comercial do IPOG).
   Assumido aqui como a mesma pessoa; recomenda-se ao Comercial confirmar o nome
   completo correto antes do merge.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+Ser um profissional técnico de excelência pode garantir a entrada na liderança, mas a permanência requer mais. O papel da liderança tem se tornado cada vez mais crucial no mundo nos últimos anos. Uma pesquisa da consultoria McKinsey mostra que 90% dos CEOs planejam aumentar investimentos na formação de lideranças, reconhecendo a importância desses profissionais na transformação do capital intelectual e na escalabilidade dos negócios. Para se destacar no mercado competitivo de hoje, é essencial dominar não apenas habilidades técnicas, mas também soft skills como comunicação, inteligência emocional e capacidade de inspirar equipes.
+
+**Áreas de atuação:** Em um ambiente cada vez mais tecnológico, o papel do líder envolve recursos inovadores e habilidades específicas para cativar, unir e organizar equipes. O líder moderno busca extrair o melhor de cada membro da equipe, promovendo a combinação correta de talentos. Em equipes multidisciplinares, ele atua como elo entre profissionais de perfis distintos, mantendo-os engajados e conciliando conflitos. Para desempenhar essa função, é necessário conhecimento em soft skills, como comunicação, inteligência emocional e resolução de conflitos. Profissionais formados no curso de Executivo em Liderança podem atuar em cargos como Gerente de Projetos, Diretor de Recursos Humanos, Consultor de Estratégia, Gerente de Operações e Chief Innovation Officer, desempenhando papéis cruciais na transformação e crescimento das organizações.

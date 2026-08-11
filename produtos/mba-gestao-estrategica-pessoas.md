@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-gestao-estrategica-pessoas
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1318
 ---
 
 # MBA em Gestão Estratégica de Pessoas: Desenvolvimento, Cultura e Negócios
@@ -82,3 +83,9 @@ técnica profunda especificamente em NR-01 e riscos psicossociais — enquanto e
 tem escopo mais amplo de gestão de pessoas. Se o lead tiver interesse específico em
 NR-01/riscos psicossociais (não apenas gestão de pessoas em geral), considere
 recomendar o curso especializado.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O cenário empresarial atual é marcado por mudanças rápidas e imprevisíveis, exigindo líderes capazes de gerenciar talentos com uma abordagem estratégica e inovadora. Empresas de todos os setores buscam profissionais que dominem gestão de cultura, engajamento e desenvolvimento humano, alinhando práticas de RH aos objetivos organizacionais. Quem se especializa nessa área encontra alta demanda no mercado, com oportunidades em empresas nacionais e multinacionais que priorizam a excelência na gestão de pessoas como diferencial competitivo.
+
+**Áreas de atuação:** Este MBA prepara você para atuar de forma estratégica e inovadora na gestão de pessoas, com oportunidades em áreas como Gestão Estratégica de RH, onde será responsável pelo desenvolvimento e implementação de políticas alinhadas aos objetivos organizacionais; Consultoria e Desenvolvimento Organizacional, promovendo melhorias na cultura, liderança e performance das empresas; People Analytics e Transformação Digital, utilizando dados e tecnologia para otimizar a gestão de talentos e a tomada de decisão; Treinamento e Desenvolvimento, criando programas que capacitam e fortalecem as equipes; e Cultura e Engajamento, desenvolvendo ambientes inclusivos, produtivos e alinhados à identidade organizacional. Com essa formação, você estará pronto para liderar mudanças, impulsionar o sucesso das organizações e se destacar no mercado de trabalho.

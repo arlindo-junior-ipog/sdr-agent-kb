@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: pos-master-neuroarquitetura
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 687
 ---
 
 # Pós-Graduação Master em Neuroarquitetura
@@ -74,3 +75,9 @@ co-coordena o `produtos/pos-master-bim-expert-processos-modelagem-projeto.md` (v
   Este curso tem o escopo mais amplo dos três, centrado em neurociência aplicada à
   arquitetura/design/iluminação/negócios. Ver pergunta de desambiguação em
   `pos-master-iluminacao.md`.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O Master em Neuroarquitetura participa da criação de projetos arquitetônicos alinhados aos conhecimentos da neurociência, desenvolvendo ambientes mais saudáveis e confortáveis. É indicado para graduados nas áreas de arquitetura, design, iluminação, engenharias e demais formações relacionadas.
+
+**Áreas de atuação:** Como Master em Neuroarquitetura, você vai desenvolver projetos arquitetônicos nas áreas residencial, comercial e institucional alinhados aos conhecimentos de neurociência aplicados à arquitetura, ao design e à iluminação.

@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-11
 categoria: produto
 curso: extensao-ia-arquitetura-design-briefing
-atualizado_em: 2026-08-11
-aprovado_por: comercial
+curso_id: 1401
 ---
 
 # Curso de Extensão Universitária: IA para Arquitetura e Design — Do Briefing ao Render

@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: extensao-rh-performance-indicadores-business-partner
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 985
 ---
 
 # Curso de Extensão Universitária: RH Performance, Indicadores e Business Partner
@@ -59,3 +60,9 @@ Humanos, Consultor Organizacional e Presidente eleito da ABRH-GO (Gestão 2022-2
   coordenação principal aqui (este curso é coordenado por Milton Marinho), mas vale
   registrar a conexão entre os professores caso o lead pergunte sobre mais de um
   curso de RH do catálogo.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O curso RH - Performance, Indicadores e Business Partner te prepara para atuar no gerenciamento das boas relações entre empregado e empregador. No mercado, é possível encontrar vagas com salário de até R$ 6.287,00!
+
+**Áreas de atuação:** O profissional com a formação do curso RH - Performance, Indicadores e Business Partner trabalha na administração das relações trabalhistas — desde o recrutamento até o desligamento — de empresas de todos os setores. Assim, o mercado é bastante amplo para

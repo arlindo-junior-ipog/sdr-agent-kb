@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-11
 categoria: produto
 curso: pos-master-engenharia-obras-solo-geotecnia-aplicada
-atualizado_em: 2026-08-11
-aprovado_por: comercial
+curso_id: 1247
 ---
 
 # Master em Engenharia de Obras de Solo e Geotecnia Aplicada: Estudos, Dimensionamento e Projeto (Pós-Graduação)
@@ -83,3 +84,9 @@ Sohler) e `produtos/mba-projeto-construcao-obras-industriais-especiais.md` (ver
   `produtos/mba-projeto-construcao-obras-industriais-especiais.md`. Risco de
   confusão baixo dado o foco técnico bem distinto de cada um (geotecnia vs.
   patologia vs. gestão vs. obras especiais).
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O curso atrai uma ampla gama de profissionais devido ao seu vasto espectro de atuação em obras relacionadas a solos, que compreendem a maioria dos projetos na área. Com um mercado tão diversificado, as oportunidades salariais variam consideravelmente, mas muitas vezes ultrapassam a marca dos R$10 mil, conforme indicado por pesquisas do CAGED. Portanto, a especialização pode significativamente impulsionar o potencial de ganhos, dependendo do comprometimento do profissional no mercado.
+
+**Áreas de atuação:** O Engenheiro Geotécnico possui um vasto campo de atuação, podendo trabalhar em empresas especializadas na construção de túneis, escavações, barragens, e hidrelétricas, assim como na análise e estabilização de encostas, estradas e outras grandes obras. Além disso, ele desempenha um papel crucial na implementação de medidas preventivas para evitar deslizamentos e desmoronamentos de terra, e na preservação dos lençóis freáticos. Sua expertise também é fundamental na contenção de encostas em áreas de risco, contribuindo para a segurança e sustentabilidade do ambiente construído.

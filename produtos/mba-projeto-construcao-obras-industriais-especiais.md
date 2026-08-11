@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-11
 categoria: produto
 curso: mba-projeto-construcao-obras-industriais-especiais
-atualizado_em: 2026-08-11
-aprovado_por: comercial
+curso_id: 1011
 ---
 
 # MBA em Projeto e Construção de Obras Industriais e Especiais
@@ -83,3 +84,9 @@ e `produtos/mba-gerenciamento-obras-estrategia-desempenho-construcao.md` (ver
   dos três, voltado ao projeto estrutural de tipologias especiais (galpões,
   barragens, pontes). Risco de confusão baixo dado o foco distinto de cada um, mas
   vale registro para o Comercial.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O MBA em Projeto e Construção de Obras Industriais e Especiais permite que o profissional atue na elaboração de projetos de construção de obras industriais e de estruturas especiais, bem como na fiscalização de execução de obras e auditoria no setor.
+
+**Áreas de atuação:** O especialista nessa área pode trabalhar em construtoras, incorporadoras e com projetos próprios de construção civil. Além disso, ele torna-se apto a elaborar laudos e perícias técnicas a respeito dessas obras e estruturas.

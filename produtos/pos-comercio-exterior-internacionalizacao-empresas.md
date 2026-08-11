@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: pos-comercio-exterior-internacionalizacao-empresas
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1376
 ---
 
 # Pós-Graduação em Comércio Exterior e Internacionalização de Empresas

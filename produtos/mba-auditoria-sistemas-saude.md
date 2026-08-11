@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-auditoria-sistemas-saude
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 628
 ---
 
 # MBA em Auditoria de Sistemas de Saúde
@@ -80,3 +81,9 @@ Organização Nacional de Acreditação (ONA).
   pessoas, marketing, financeiro, facilities, LEAN). Este curso é o mais operacional
   dos quatro (auditoria de contas, SUS, perícia). Ver pergunta de desambiguação
   completa em `mba-gestao-excelencia-saude.md`.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+Com o MBA Auditoria de Sistemas de Saúde, você pode atender a demandas cotidianas de gestão. Também vai implementar os processos de auditoria e de identificação de melhorias.
+
+**Áreas de atuação:** O profissional especializado com o MBA Auditoria de Sistemas de Saúde do IPOG pode atuar nas associações de saúde, com a habilitação no exercício da função de auditor interno.

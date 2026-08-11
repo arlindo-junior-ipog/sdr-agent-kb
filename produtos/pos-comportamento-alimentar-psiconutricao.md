@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: pos-comportamento-alimentar-psiconutricao
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1349
 ---
 
 # Pós-Graduação em Comportamento Alimentar e Psiconutrição
@@ -79,3 +80,9 @@ Goiânia, atualmente professora na PUC-GO e em consultório clínico próprio.
   Autismo). Trate apenas no nível da ementa pública (é conteúdo técnico-acadêmico para
   formação clínica de nutricionistas/psicólogos), sem aprofundar em casos ou
   orientações clínicas com o lead.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+A demanda por profissionais preparados para lidar com o comportamento alimentar e suas interfaces emocionais cresce a cada dia. O aumento de transtornos como ansiedade, compulsão e distúrbios alimentares, somado à valorização da saúde mental, coloca nutricionistas, psicólogos e profissionais da saúde com formação em Psiconutrição entre os mais procurados em clínicas, consultórios e equipes multiprofissionais. É uma área estratégica, em ascensão e com espaço para quem quer se destacar com propósito e técnica.
+
+**Áreas de atuação:** Com essa formação, você estará apto a atuar no atendimento de pacientes com transtornos alimentares, obesidade, compulsão alimentar, alterações emocionais e disfunções comportamentais ligadas à alimentação. Também poderá trabalhar com públicos específicos como crianças, gestantes, puérperas e pacientes com condições neurológicas, além de aplicar intervenções clínicas com uso de mindfulness, fitoterapia, crononutrição e estratégias integradas à saúde mental. Uma atuação ampla, ética e baseada em evidências.

@@ -1,8 +1,9 @@
 ---
+aprovado_por: material oficial IPOG (folder do curso)
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-planejamento-gestao-obras-publicas
-atualizado_em: 2026-08-10
-aprovado_por: material oficial IPOG (folder do curso)
+curso_id: 832
 ---
 
 # MBA em Planejamento e Gestão de Obras Públicas
@@ -47,3 +48,9 @@ Inclui engenheiros, auditores do Tribunal de Contas da União (TCU), especialist
 
 ## Documentação necessária para inscrição
 Diploma de graduação original, cópia de RG e CPF, ID profissional, CNH. A ficha de cadastro e as orientações de inscrição devem ser solicitadas a um consultor.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O MBA Planejamento e Gestão de Obras Públicas do IPOG prepara profissionais para realizar uma gestão mais eficiente dos recursos que são investidos nesse tipo de empreendimento.
+
+**Áreas de atuação:** Com o MBA Planejamento e Gestão de Obras Públicas do IPOG, você desenvolve competências para desde a concepção do edital da licitação até a entrega total da obra contratada.

@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-gestao-fatores-riscos-psicossociais-nr01
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1476
 ---
 
 # MBA em Gestão dos Fatores de Riscos Psicossociais da NR-01

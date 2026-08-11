@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-licitacoes-contratos-governanca-gestao-contratacoes-aquisicoes-publicas
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 868
 ---
 
 # MBA em Licitações e Contratos: Governança e Gestão em Contratações e Aquisições Públicas
@@ -63,3 +64,9 @@ financeira nas áreas pública e privada, ex-Auditor Federal de Controle Interno
 - "Sou de empresa privada, esse curso serve para mim?" → Sim; o material indica
   explicitamente que o curso oferece "domínio estratégico" para empresas privadas
   competirem em certames públicos, além de atender agentes públicos e advogados.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+O especialista na gestão de certames licitatórios — também conhecido como Analista de Licitações — trabalha na elaboração de planilhas de custos, realização de cadastros de órgãos públicos, análise de editais, levantamento de dados e cotação de preços, entre outros tipos de serviços. É uma especialização indicada para administradores de empresas, empresários, advogados, funcionários públicos e outros profissionais envolvidos no processo de compras de produtos e serviços pela administração pública que queiram obter sucesso no processo de licitação.
+
+**Áreas de atuação:** Com o MBA Licitações e Contratos, você pode atuar na administração de empresas, escritórios de advocacia, parte de compras de produtos e serviços de empresas, entre outros ambientes de direito público ou privado. Existe uma ampla área de atuação e diversas oportunidades no mercado!

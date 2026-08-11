@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: pos-avaliacao-psicologica
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 45
 ---
 
 # Pós-Graduação em Avaliação Psicológica
@@ -91,3 +92,9 @@ Coloridas de Pfister (aprovados pelo SATEPSI).
 - Encontrado um arquivo-fonte duplicado ("PROJETO - AVALIACAO PSICOLOGICA 2.pdf")
   idêntico ao usado para este arquivo — apenas uma cópia redundante, sem
   divergência de conteúdo.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+Como a avaliação psicológica é apenas realizada por psicólogos especializados, esse é um excelente mercado para os profissionais. Inclusive, o procedimento possui alta demanda em vários segmentos. A Pós-Graduação em Avaliação Psicológica é exclusiva para psicólogos.
+
+**Áreas de atuação:** Os profissionais com Pós-Graduação em Avaliação Psicológica são capacitados para realizar esses testes em diversos contextos, assim como elaborar planos interventivos e encaminhamentos embasados em evidências.

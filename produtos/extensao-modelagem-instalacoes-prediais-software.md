@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: extensao-modelagem-instalacoes-prediais-software
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1531
 ---
 
 # Curso de Extensão Universitária: Modelagem de Instalações Prediais Utilizando Software

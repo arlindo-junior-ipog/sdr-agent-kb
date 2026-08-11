@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-11
 categoria: produto
 curso: mba-inovacao-contabil-tributaria-ia
-atualizado_em: 2026-08-11
-aprovado_por: comercial
+curso_id: 711
 ---
 
 # MBA em Inovação Contábil e Tributária com Inteligência Artificial
@@ -86,3 +87,9 @@ da Reforma Tributária do CRC-CE.
   no catálogo (nove ao todo), recomenda-se fortemente ao Comercial fazer uma
   auditoria consolidada de toda a família Fellipe Guerra antes do merge, para
   confirmar quais estão realmente ativos e evitar sobreposição de oferta ao lead.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+A contabilidade fiscal e tributária é um campo essencial para garantir o sucesso de qualquer empresa. Com o MBA do IPOG, o profissional tem o grande diferencial de explorar sistemas informatizados e seu melhor aproveitamento para a performance contábil.
+
+**Áreas de atuação:** A especialização permite vasto campo de atuação profissional, permitindo trabalho em escritório de contabilidade, setor fiscal de empresas de todos os portes e segmentos, além de ajudar na aprovação em concursos nas áreas de auditoria fiscal e perícia contábil.

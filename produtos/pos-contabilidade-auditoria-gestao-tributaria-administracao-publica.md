@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-11
 categoria: produto
 curso: pos-contabilidade-auditoria-gestao-tributaria-administracao-publica
-atualizado_em: 2026-08-11
-aprovado_por: comercial
+curso_id: 406
 ---
 
 # Pós-Graduação em Contabilidade, Auditoria e Gestão Tributária na Administração Pública
@@ -82,3 +83,9 @@ Contabilidade, Tributos e Gestão Empresarial. Também coordena
   genuinamente distintas (ex.: turmas para setor público vs. privado) ou se um
   substitui o outro, antes do merge — risco real de o agente confundir os dois ou
   apresentar conteúdo redundante ao lead.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+Com essa especialização, o aluno terá à sua disposição um vasto mercado de oportunidades. Ele poderá atuar como empresário, consultor diretor, gerente, supervisor ou líder de projetos em diversas atividades estratégicas, incluindo planejamento tributário, apuração do IRPJ e CSLL, planejamento sucessório, entre outras atividades.
+
+**Áreas de atuação:** O MBA Contabilidade, Auditoria e Gestão Tributária oferece qualificação para atuar em diferentes setores e empresas. Você pode trabalhar em escritórios de advocacia, construtoras, supermercados ou qualquer outra empresa com atividade direta ou indireta de contabilidade. O que não faltam são oportunidades para o estudante com essa especialização!

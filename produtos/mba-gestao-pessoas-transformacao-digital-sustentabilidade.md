@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-gestao-pessoas-transformacao-digital-sustentabilidade
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1316
 ---
 
 # MBA em Gestão de Pessoas: Transformação Digital e Sustentabilidade
@@ -71,3 +72,9 @@ comunicação e indicadores de RH). Ver
 `produtos/mba-gestao-estrategica-pessoas.md`. Se o lead não deixar claro qual dos
 dois busca, pergunte se o interesse é mais voltado a liderança/cultura ou a
 ESG/tecnologia antes de indicar um dos dois.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+A busca por profissionais que aliem gestão de pessoas, tecnologia e ESG cresce exponencialmente. Empresas de todos os segmentos precisam de especialistas capazes de otimizar processos com IA, utilizar dados para decisões estratégicas e criar ambientes de trabalho mais sustentáveis e produtivos. Com esse MBA, você estará preparado para atuar em RH estratégico, gestão de talentos, consultoria de transformação digital e sustentabilidade corporativa.
+
+**Áreas de atuação:** Este MBA prepara você para atuar em diversas áreas, como People Analytics e Transformação Digital, aplicando dados e IA para otimizar a gestão de talentos; Gestão Sustentável e ESG, implementando práticas responsáveis e inovadoras; Cultura e Bem-Estar Organizacional, promovendo um ambiente de trabalho produtivo e saudável; Liderança e Desenvolvimento Humano, capacitando equipes para alta performance; e Gestão Estratégica de Pessoas, alinhando a força de trabalho às metas da organização.

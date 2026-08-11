@@ -1,3 +1,7 @@
 psycopg2-binary
 python-frontmatter
 sentence-transformers
+anthropic
+composio
+composio-anthropic
+python-dotenv

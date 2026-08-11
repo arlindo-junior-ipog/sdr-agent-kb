@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: extensao-introducao-pratica-ia-ferramentas-aplicacoes
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1396
 ---
 
 # Curso de Extensão Universitária: Introdução Prática à Inteligência Artificial — Ferramentas e Aplicações Essenciais

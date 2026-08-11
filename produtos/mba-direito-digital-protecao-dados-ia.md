@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: mba-direito-digital-protecao-dados-ia
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1304
 ---
 
 # MBA em Direito Digital, Práticas em Proteção de Dados e Inteligência Artificial
@@ -70,3 +71,9 @@ Coordenador da Graduação em Direito do IPOG.
   direito digital, respectivamente), então o risco de confusão entre leads é baixo —
   registrado apenas para referência caso o mesmo lead pergunte sobre mais de um curso
   do mesmo coordenador.
+
+## Mercado de Trabalho e Áreas de Atuação
+
+Neste curso você irá se capacitar para desempenhar um trabalho de excelência em relação aos diferentes desafios do direito na era digital. O MBA em Direito Digital, Práticas de Proteção de Dados e Inteligência Artificial, prepara os profissionais para atuar na esfera advocatícia, frente às questões do direito à privacidade e proteção de dados, propriedade intelectual e outros direitos de indivíduos e também de empresas. Outra área de grande potencial é o setor corporativo, capacitando o profissional especialista nesta área a encabeçar projetos de Governança Corporativa e Compliance no ambiente digital, assim como gerir questões legais relacionadas ao uso de novas tecnologias - como a inteligência artificial -, resguardando a empresa e contribuindo com o crescimento sustentável da mesma.
+
+**Áreas de atuação:** Com as especialidades adquiridas neste MBA, você poderá atuar diretamente na esfera advocatícia dentro do âmbito da Proteção de Dados e Direito à Privacidade, ou ainda na área de Propriedade Intelectual no Meio Digital, e Registro de Marcas e Patentes. Há também um grande leque de oportunidades para atuar em mercados extremamente promissores, que são: Investigação Forense e Crimes Digitais; Compliance Digital e Governança Corporativa; e Ativos digitais, com ênfase em Blockchain e Criptomoedas.

@@ -1,8 +1,9 @@
 ---
+aprovado_por: comercial
+atualizado_em: 2026-08-10
 categoria: produto
 curso: extensao-excel-master-do-zero-ia
-atualizado_em: 2026-08-10
-aprovado_por: comercial
+curso_id: 1414
 ---
 
 # Curso de Extensão Universitária: Excel Master — Do Zero à IA
