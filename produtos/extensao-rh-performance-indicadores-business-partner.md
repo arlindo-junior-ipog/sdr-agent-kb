@@ -1,6 +1,6 @@
 ---
-aprovado_por: comercial
-atualizado_em: 2026-08-10
+aprovado_por: pendente de revisão do Comercial
+atualizado_em: 2026-10-02
 categoria: produto
 curso: extensao-rh-performance-indicadores-business-partner
 curso_id: 985
@@ -8,61 +8,46 @@ curso_id: 985
 
 # Curso de Extensão Universitária: RH Performance, Indicadores e Business Partner
 
-## Resumo para qualificação (SPIN)
-Indicado para o lead que menciona: RH Business Partner, indicadores de RH, ou
-remuneração estratégica. Bom fit para auxiliares, assistentes, analistas e líderes de
-RH que querem uma visão mais estratégica e orientada a dados.
-
 ## Ficha técnica
 - **Tipo:** Curso de Extensão Universitária
 - **Carga horária:** 80 horas
-- **Modalidade:** On-line e Ao Vivo (via Zoom)
-- **Estrutura:** 4 disciplinas
-- **Horários:** "Confirme com seu consultor as datas e horários das aulas"
-- **Atividades práticas:** modelo de Sala de Aula Invertida
+- **Modalidade:** On-line e Ao Vivo | Presencial
+- **Formato — On-line e Ao Vivo (conforme o material):** 4 disciplinas; Aulas On-line e Ao Vivo via plataforma Zoom; Confirme com seu consultor as datas e horários das aulas.; COORDENAÇÃO; Possui Graduação em Psicologia (PUCGO), Pós-graduação Lato Sensu em; Análise e Diagnóstico Organizacional (PUC-GO) e Gestão de Pessoas (PUCGO) e Stricto Sensu em Psicologia (PUC-GO). Atualmente, é Diretor de Recursos; Humanos, promovendo ações e implementações ligadas à capacitação, desenvolvimento, desempenho, comportamento organizacional, além de gestão de cargos, carreiras e remunerações. Como Consultor Organizacional, desenvolve projetos, mentoria e análise sistemática a empresas em todo o território nacional. Professor universitário (IPOG), frequentemente leciona em cursos de pós-graduação e extensão em todo o território nacional. Escritor e curador, participa atualmente de grupos de estudo ligados à remuneração, desempenho e gestão estratégica de RH. Desde 1996, tem experiência profissional comprovada em desenvolvimento humano e organizacional.; Atualmente, é presidente eleito da ABRH-GO (Gestão 2022-2024).; Milton Marinho Nogueira Júnior; Cyndia Bressan; Psicóloga e Licenciada em Psicologia/UFG. Mestre em Psicologia Organizacional e do Trabalho/UnB.; Possui MBA executivo em Liderança e Gestão Organizacional pelo IPOG/ Franklin Covey. Formações nacionais e internacionais em Coaching, Mentoring e Assessments. Atua há mais de 20 anos, em empresas nacionais e multinacionais, na área de consultoria em Gestão de Pessoas, Academia de líderes e estratégia organizacional, conduzindo processos de atração e desenvolvimento de carreiras, endomarketing, comunicação estratégica e não-violenta, gestão de desempenho, gestão por competências, educação corporativa, RH Business Partner e liderança de alta performance.; Desenvolvedora de infoprodutos. Docente universitária na Graduação e Pós-graduação. Palestrante.; Escritora. Mentora de Executivos.; Dobson Ferreira; Mais de 20 anos de e xperiência como Estrategista de diversas organizações nacionais e internacionais de segmentos distintos. É consultor e membro do conselho de administração de importantes organizações. Professor de Estratégia e de Liderança nos cursos de MBA e de Pósgraduação. Administrador de Empresas, especialista em Gestão Estratégica de Marketing, mestre em Gestão de Empresas e doutorando em Ciências Empresariais. Autor dos livros ‘A Espiritualidade das Organizações’, ‘A Alma do Negócio’, ‘Os E’s da Gestão’ e o ‘Como Vencer a Crise’. Cofundador da; Simeon, onde atuou por 14 anos e criador da DOMANI.; CORPO DOCENTE; *Professores titulares, sujeitos a alterações.
+- **Formato — Presencial (conforme o material):** 4 disciplinas; Aulas presenciais; Confirme com seu consultor as datas e horários das aulas.; COORDENAÇÃO; Possui Graduação em Psicologia (PUCGO), Pós-graduação Lato Sensu em; Análise e Diagnóstico Organizacional (PUC-GO) e Gestão de Pessoas (PUCGO) e Stricto Sensu em Psicologia (PUC-GO). Atualmente, é Diretor de Recursos; Humanos, promovendo ações e implementações ligadas à capacitação, desenvolvimento, desempenho, comportamento organizacional, além de gestão de cargos, carreiras e remunerações. Como Consultor Organizacional, desenvolve projetos, mentoria e análise sistemática a empresas em todo o território nacional. Professor universitário (IPOG), frequentemente leciona em cursos de pós-graduação e extensão em todo o território nacional. Escritor e curador, participa atualmente de grupos de estudo ligados à remuneração, desempenho e gestão estratégica de RH. Desde 1996, tem experiência profissional comprovada em desenvolvimento humano e organizacional.; Atualmente, é presidente eleito da ABRH-GO (Gestão 2022-2024).; Milton Marinho Nogueira Júnior; Cyndia Bressan; Psicóloga e Licenciada em Psicologia/UFG. Mestre em Psicologia Organizacional e do Trabalho/UnB.; Possui MBA executivo em Liderança e Gestão Organizacional pelo IPOG/ Franklin Covey. Formações nacionais e internacionais em Coaching, Mentoring e Assessments. Atua há mais de 20 anos, em empresas nacionais e multinacionais, na área de consultoria em Gestão de Pessoas, Academia de líderes e estratégia organizacional, conduzindo processos de atração e desenvolvimento de carreiras, endomarketing, comunicação estratégica e não-violenta, gestão de desempenho, gestão por competências, educação corporativa, RH Business Partner e liderança de alta performance.; Desenvolvedora de infoprodutos. Docente universitária na Graduação e Pós-graduação. Palestrante.; Escritora. Mentora de Executivos.; Dobson Ferreira; Mais de 20 anos de e xperiência como Estrategista de diversas organizações nacionais e internacionais de segmentos distintos. É consultor e membro do conselho de administração de importantes organizações. Professor de Estratégia e de Liderança nos cursos de MBA e de Pósgraduação. Administrador de Empresas, especialista em Gestão Estratégica de Marketing, mestre em Gestão de Empresas e doutorando em Ciências Empresariais. Autor dos livros ‘A Espiritualidade das Organizações’, ‘A Alma do Negócio’, ‘Os E’s da Gestão’ e o ‘Como Vencer a Crise’. Cofundador da; Simeon, onde atuou por 14 anos e criador da DOMANI.; CORPO DOCENTE; *Professores titulares, sujeitos a alterações.
+- **Atividades práticas:** As atividades práticas acontecem utilizando o modelo de Sala de Aula Invertida. Trata-se do estudo do conteúdo organizado pelo professor, com a realização de atividades de ancoragem e preparatórias que envolvem cases temáticos e aplicação de ferramentas, potencializando a aprendizagem e retenção do conteúdo durante as aulas ao vivo. 80 horas 4 disciplinas
+
+## Sobre o curso
+A experiência em Gestão de Pessoas tem encontrado cada vez mais sintonia em cenários de transformação, potencializando resultados e efetividade organizacional a partir do engajamento e da dinâmica de reconhecimento do Capital Humano. Estudos recentes apontam que os principais papéis dos profissionais de RH devem estar vinculados à facilitação da estratégia organizacional em meio a uma cultura de resultados, além do reconhecimento de resultados que agreguem valor ao indivíduo, às equipes de trabalho, à empresa e à sociedade. Os subsistemas técnicos da Gestão de Pessoas fazem absoluta conexão com esses propósitos, fortalecendo a produtividade vinculada aos desdobramentos estratégicos em RH, garantindo eficiência pessoal, eficácia grupal e efetividade organizacional.
 
 ## Para quem é o curso
-Auxiliares, assistentes, analistas e líderes em gestão de pessoas na iniciativa
-privada e no serviço público, além de profissionais atuantes em desenvolvimento
-organizacional e business partners.
+- Auxiliares, assistentes, analistas e líderes em gestão de pessoas na iniciativa privada e no serviço público, além de profissionais atuantes em desenvolvimento organizacional e business partners.
 
-## Documentação necessária para matrícula
-Não especificada explicitamente no material de origem.
+## O que você vai fazer no curso
+- Conhecer o elenco de elementos teóricos, técnicos, práticos e estratégicos, que envolvem a construção de subsistemas técnicos como geradores de resultados pessoais, profissionais e organizacionais
 
 ## Módulos (ementa resumida)
+As ementas poderão ser ajustadas conforme demandas de mercado, novas legislações, novos cenários e contextos.
+
 1. Estratégia Organizacional e Desdobramentos em Gestão de Pessoas
-2. RH Business Partner (a nova atuação do RH na "Empresa 4.0")
-3. Remuneração Estratégica (cargos, salários, meritocracia, benefícios)
-4. Indicadores de Gestão de RH (Método LAMP)
+   - Organizações de Trabalho: estrutura, estratégia e resultados
+   - Planejamento estratégico e desdobramentos estratégicos ligados às pessoas e mudança organizacional
+   - Modelos e técnicas de desenvolvimento organizacional
+   - Desenvolvimento organizacional a partir das Pessoas
+2. RH Business Partner
+   - Estrutura e Estratégia na Empresa Contemporânea
+   - A nova atuação do RH na Empresa 4.0
+   - Consultoria Interna e Externa de Recursos Humanos
+   - RH Business Partner
+   - Atuação Estratégica: Diagnoses, Hipóteses, Intervenções e Cultura de Resultados
+3. Remuneração Estratégica
+   - Gestão de Pessoas: subsistemas de compensação por resultados fixos, variáveis e indiretos
+   - Modelos de estruturação de cargos, salários e recompensas sob o enfoque da Remuneração Estratégica
+   - Reconhecimento e Meritocracia. Gestão de Benefícios Organizacionais
+4. Indicadores de Gestão de RH
+   - Gestão de Pessoas e Gestão de Resultados
+   - Indicadores de Gestão de RH para o tratamento de subsistemas e estudos de comportamento nas organizações
+   - Dicionário de indicadores e planos de ação para emersão de resultados
+   - Método LAMP de acompanhamento de resultados em Gestão de Pessoas
 
 ## Coordenação
-Milton Marinho Nogueira Júnior — Graduado em Psicologia (PUC-GO), com pós-graduação
-em Análise e Diagnóstico Organizacional e Gestão de Pessoas. Diretor de Recursos
-Humanos, Consultor Organizacional e Presidente eleito da ABRH-GO (Gestão 2022-2024).
-
-## Diferenciais para argumentação
-- Foco prático em indicadores e no Método LAMP de acompanhamento de resultados em
-  Gestão de Pessoas — ferramenta concreta e aplicável.
-- Coordenador com liderança de entidade de classe nacional (ABRH-GO).
-- Corpo docente inclui Cyndia Bressan, também coordenadora de outros cursos de gestão
-  de pessoas do IPOG (ver "Alertas").
-
-## Objeções comuns específicas deste curso
-- "Esse curso é uma formação completa em RH ou só um complemento?" → É um curso de
-  extensão focado especificamente em Business Partner, remuneração estratégica e
-  indicadores — um complemento prático, não uma formação ampla em Gestão de Pessoas
-  (para isso, ver os MBAs de Gestão de Pessoas do catálogo).
-
-## Alertas
-- Cyndia Bressan, que compõe o corpo docente deste curso, é coordenadora de
-  `produtos/mba-gestao-estrategica-pessoas.md` e
-  `produtos/mba-gestao-fatores-riscos-psicossociais-nr01.md`. Não há sobreposição de
-  coordenação principal aqui (este curso é coordenado por Milton Marinho), mas vale
-  registrar a conexão entre os professores caso o lead pergunte sobre mais de um
-  curso de RH do catálogo.
-
-## Mercado de Trabalho e Áreas de Atuação
-
-O curso RH - Performance, Indicadores e Business Partner te prepara para atuar no gerenciamento das boas relações entre empregado e empregador. No mercado, é possível encontrar vagas com salário de até R$ 6.287,00!
-
-**Áreas de atuação:** O profissional com a formação do curso RH - Performance, Indicadores e Business Partner trabalha na administração das relações trabalhistas — desde o recrutamento até o desligamento — de empresas de todos os setores. Assim, o mercado é bastante amplo para
+Possui Graduação em Psicologia (PUCGO), Pós-graduação Lato Sensu em Análise e Diagnóstico Organizacional (PUC-GO) e Gestão de Pessoas (PUCGO) e Stricto Sensu em Psicologia (PUC-GO). Atualmente, é Diretor de Recursos Humanos, promovendo ações e implementações ligadas à capacitação, desenvolvimento, desempenho, comportamento organizacional, além de gestão de cargos, carreiras e remunerações. Como Consultor Organizacional, desenvolve projetos, mentoria e análise sistemática a empresas em todo o território nacional. Professor universitário (IPOG), frequentemente leciona em cursos de pós-graduação e extensão em todo o território nacional. Escritor e curador, participa atualmente de grupos de estudo ligados à remuneração, desempenho e gestão estratégica de RH. Desde 1996, tem experiência profissional comprovada em desenvolvimento humano e organizacional. Atualmente, é presidente eleito da ABRH-GO (Gestão 2022-2024).

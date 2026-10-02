@@ -19,7 +19,8 @@ curso_id: 1135
 As decisões em um ambiente de forte competição precisam ser sustentadas em metodologias, ferramentas e técnicas, capazes de apontar as melhores alternativas. A utilização de instrumentos e métodos gerenciais consagrados sustentam a formação dos profissionais que atuam em cargos de decisão nas empresas, proporcionando a eles foco de ação e aumento de performance. Com a especialização em Gestão de Negócios, Finanças e Controladoria, você vai adquirir as ferramentas necessárias para identificar e solucionar desafios corporativos, conduzindo empresas a novos patamares de lucratividade e rentabilidade. Profissionais das seguintes áreas de formação: Administradores, Contadores, Economistas e Gestores que estão em cargos de decisão. Empresários, Gestores e Consultores que necessitam de conhecimento técnicos para profissionalizar as empresas onde atuam.
 
 ## O que você vai fazer no curso
-- Desenvolver habilidades técnicas e ampliar suas habilidades de gestão, finanças, capacidade de liderança e poder de decisão, transformando-o em um efetivo agente de mudanças nas organizações Estar apto para tomar decisões relacionadas à gestão, rumos estratégicos, análise financeira, atuar em controladoria, melhoria de desempenho e geração de negócios, em empresas comerciais, industriais e de serviços
+- Desenvolver habilidades técnicas e ampliar suas habilidades de gestão, finanças, capacidade de liderança e poder de decisão, transformando-o em um efetivo agente de mudanças nas organizações
+- Estar apto para tomar decisões relacionadas à gestão, rumos estratégicos, análise financeira, atuar em controladoria, melhoria de desempenho e geração de negócios, em empresas comerciais, industriais e de serviços
 - Dominar ferramentas de apoio para desenvolver sua capacidade analítica e de execução
 
 ## Módulos (ementa resumida)

@@ -1,90 +1,82 @@
 ---
-aprovado_por: comercial
-atualizado_em: 2026-08-10
+aprovado_por: pendente de revisão do Comercial
+atualizado_em: 2026-10-02
 categoria: produto
 curso: pos-psicologia-neurodesenvolvimento-aprendizagem
 curso_id: 1307
 ---
 
-# Pós-Graduação em Psicologia do Neurodesenvolvimento e Aprendizagem
-
-## Resumo para qualificação (SPIN)
-Indicado para o lead que menciona: avaliação de atraso no desenvolvimento infantil,
-TEA, TDAH, transtornos de aprendizagem, ou reabilitação neuropsicológica infantil.
-**Atenção:** curso restrito a psicólogos e com o mesmo coordenador de outros dois
-cursos já modelados — ver "Alertas".
+# Psicologia do Neurodesenvolvimento e Aprendizagem
 
 ## Ficha técnica
-- **Tipo:** Pós-graduação (Especialização)
+- **Tipo:** Pós-Graduação
 - **Carga horária:** 360 horas
-- **Modalidade:** EaD (100%, assíncrono)
-- **Estrutura:** 12 módulos
-- **Atividades práticas:** videoaulas autorais, slides, material complementar
-  (curadoria de conteúdo), práticas on-line assíncronas
+- **Modalidade:** EaD
 
-## Para quem é o curso — RESTRIÇÃO DE PÚBLICO
-Curso exclusivo para psicólogos. Será indispensável a apresentação de diploma de
-conclusão de curso.
+## Sobre o curso e para quem é
+De acordo com o Ministério da Saúde, 12% das crianças brasileiras de até cinco anos têm suspeita de atraso no desenvolvimento e/ou não apresentam comportamentos e habilidades esperados para essa faixa etária (Brasil, 2023). Com o avanço das pesquisas no contexto infantil, cresce as possibilidades de investigação precoce desses transtornos, objetivando a redução de danos a longo prazo, estruturação de práticas baseadas em evidências que possibilitam aumento na qualidade de vida, estimulação cognitiva e comportamental, adaptação curricular individualizada, orientação e treinamento familiar, bem como apoio às equipes interdisciplinares. A Pós-graduação em Psicologia do Neurodesenvolvimento e Aprendizagem foi formatada para atender às crescentes demandas por especialistas qualificados que possam não apenas identificar e/ou avaliar os sinais precoces de atraso no desenvolvimento, como também gerenciar práticas interventivas eficazes embasadas em ciência.
 
-## Documentação necessária para matrícula
-Diploma de conclusão de curso de Psicologia (indispensável).
+## O que você vai fazer no curso
+- Se capacitar como especialista no que diz respeito à avaliação e intervenção de indivíduos com atraso no desenvolvimento e transtornos associados à aprendizagem
+- Adquirir conhecimentos sobre os principais modelos de intervenção e reabilitação neuroinfantil
+- Se habilitar como psicólogo quanto à aplicação, correção e interpretação das ferramentas essenciais para avaliação dos transtornos da infância
 
 ## Módulos (ementa resumida)
+As ementas poderão ser ajustadas conforme demandas de mercado, novas legislações, novos cenários e contextos.
+
 1. Psicologia do Neurodesenvolvimento
-2. Bases Anatomofisiológicas do Sistema Nervoso Central Infantil
-3. Farmacologia Aplicada ao Contexto Infantil
-4. Psicomotricidade Aplicada ao Desenvolvimento Infantil
+   - Relações entre desenvolvimento infantil e funções neurológicas.
+   - O cérebro da criança.
+   - Principais teorias desenvolvimentistas.
+   - Fatores endógenos e exógenos do desenvolvimento.
+   - Teoria Sistêmica de Luria aplicada à avaliação neuropsicológica Infantil.
+   - A anamnese infantil e a compreensão da ludicidade no desenvolvimento da criança e suas utilidades na avaliação neuropsicológica.
+2. Bases Anatomofísiológicas do Sistema Nervoso Central Infantil
+   - Sistema Nervoso Central e Periférico: classificação, estrutura e fisiologia.
+   - Relações entre as áreas cerebrais e as funções corticais.
+   - Relações entre cognição e comportamento infantil.
+3. Farmacologia aplicada ao contexto infantil
+   - Conceitos básicos de farmacodinâmica e farmacocinética aplicada ao contexto infantil.
+   - Principais grupos de psicofármacos e sua aplicabilidade no tratamento das psicopatologias e dos transtornos neurológicos da criança.
+4. Psicomotricidade aplicada ao Desenvolvimento Infantil
+   - Definição de psicomotricidade aplicada à primeira infância.
+   - Práticas psicomotoras lúdicas voltadas para a intervenção.
+   - Principais instrumentos que avaliam a psicomotricidade infantil.
 5. Avaliação do Transtorno do Espectro Autista (TEA)
+   - Principais teorias associadas ao Transtorno do Espectro Autista (TEA).
+   - Fatores genéticos e epigenéticos.
+   - Aplicação, correção e interpretação dos principais testes utilizados na prática clínica.
 6. Avaliação do Transtorno de Déficit de Atenção e Hiperatividade (TDAH)
+   - Principais teorias associadas ao Transtorno de Déficit de Atenção e Hiperatividade (TDAH).
+   - Fatores genéticos e epigenéticos.
+   - Aplicação, correção e interpretação dos principais testes utilizados na prática clínica.
 7. Avaliação do Transtorno do Desenvolvimento Intelectual
+   - Principais teorias associadas ao Transtorno do Desenvolvimento Intelectual.
+   - Fatores genéticos, epigenéticos e ambientais que favorecem limitações na intelectualidade.
+   - Aplicação, correção e interpretação dos principais testes utilizados na prática clínica.
 8. Avaliação dos Transtornos Genéticos
+   - Principais teorias associadas aos Transtornos Genéticos.
+   - Avaliação Neuropsicológica dos Transtornos Genéticos.
+   - Aplicação, correção e interpretação dos principais testes utilizados na prática clínica.
 9. Avaliação dos Transtornos de Aprendizagem
+   - Domínio dos conceitos e epidemiologia dos principais transtornos específicos de aprendizagem.
+   - Aplicação, correção e interpretação de instrumentos psicométricos e técnicas complementares.
 10. Estimulação Precoce e Práticas Naturalísticas
-11. Reabilitação Neuropsicológica Aplicada ao Desenvolvimento
-12. Reabilitação Neuropsicológica Aplicada à Aprendizagem
+   - Principais conceitos a respeito da estimulação precoce.
+   - Principais ferramentas utilizadas na estimulação precoce.
+   - Práticas baseadas em evidências.
+   - Práticas Naturalísticas aplicadas ao contexto da Estimulação Precoce.
+   - Orientação e treino parental.
+11. Reabilitação Neuropsicológica aplicada ao Desenvolvimento
+   - Principais conceitos a respeito da reabilitação neuropsicológica.
+   - Reabilitação Neuropsicológica e Estimulação Cognitiva.
+   - Estratégias Lúdicas e práticas ecológicas no contexto da reabilitação infantil.
+   - Orientação e treino parental.
+12. Reabilitação Neuropsicológica aplicada à Aprendizagem
+   - Principais conceitos a respeito da reabilitação neuropsicológica aplicada à aprendizagem.
+   - Estimulação neuropsicopedagógica e transtornos de aprendizagem.
+   - Estratégias Lúdicas e práticas ecológicas no contexto da aprendizagem.
+   - Orientação e treino parental.
 
 ## Coordenação
-Fernando José Silveira (CRP 04/26848) — Graduação em Psicologia, Especialização em
-Neuropsicologia (CEPSIC-HCFMUSP), Mestre e Doutor em Psicologia (Universidade São
-Francisco/SP). Presidente da Clínica Luria. Também coordena
-`produtos/pos-aba-neurodivergencias-estrategias-avancadas-intervencao.md` e
-`produtos/pos-neuropsicopedagogia-clinica-institucional.md` (ver "Alertas").
-
-## Diferenciais para argumentação
-- Cobertura ampla de avaliação neuropsicológica infantil: TEA, TDAH, deficiência
-  intelectual, transtornos genéticos e de aprendizagem em um único programa.
-- Módulo específico de Farmacologia Aplicada ao Contexto Infantil — pouco comum em
-  formações de avaliação psicológica infantil.
-- Coordenador com atuação clínica de referência e autoria de material próprio
-  (Clínica Luria).
-
-## Objeções comuns específicas deste curso
-- "Qual a diferença desse curso para a Pós em ABA e Neurodivergências, do mesmo
-  coordenador?" → Ver alerta abaixo — este é focado em avaliação/diagnóstico
-  neuropsicológico infantil (TEA, TDAH, transtornos de aprendizagem); o de ABA é
-  focado em intervenção comportamental aplicada.
-
-## Alertas
-- **Quarto curso do mesmo coordenador no catálogo:** Fernando José Silveira também
-  coordena `produtos/pos-aba-neurodivergencias-estrategias-avancadas-intervencao.md`
-  (432h, foco em intervenção ABA), `produtos/pos-neuropsicopedagogia-clinica-institucional.md`
-  (600h, multiprofissional) e `produtos/pos-neuropsicologia.md` (648h, exclusivo
-  psicólogos, o mais amplo e profundo do grupo). Os cursos tratam de temas próximos
-  (neurodesenvolvimento infantil, TEA, aprendizagem) mas com ênfases diferentes:
-  este é orientado à **avaliação/diagnóstico neuropsicológico infantil**; o de ABA é
-  orientado à **intervenção comportamental**; recomenda-se ao Comercial revisar os
-  quatro lado a lado e definir uma pergunta de desambiguação padrão para o agente
-  (ex.: "Você busca principalmente avaliar/diagnosticar, ou também aplicar
-  intervenções comportamentais?").
-- **Restrição de elegibilidade:** curso exclusivo para psicólogos, com diploma
-  obrigatório — reforçar sempre que o lead não confirmar a formação de origem.
-
-## Mercado de Trabalho e Áreas de Atuação
-
-O mercado de trabalho para profissionais especializados está em plena expansão, impulsionado pelo aumento das pesquisas sobre desenvolvimento infantil e pela crescente demanda por diagnósticos e intervenções precoces. 
-
-Com o crescente reconhecimento da importância de profissionais capacitados para lidar com transtornos de desenvolvimento e dificuldades de aprendizagem, as oportunidades nesse campo se multiplicam. Além disso, o foco na inclusão e adaptação curricular personalizada nas instituições de ensino tem gerado uma demanda crescente por profissionais qualificados para auxiliar no desenvolvimento de práticas educacionais inclusivas e na formação de políticas públicas.
-
-**Áreas de atuação:** A especialização em Psicologia do Neurodesenvolvimento e Aprendizagem prepara psicólogos para atuar de forma estratégica e especializada com crianças e adolescentes que enfrentam transtornos como autismo, dislexia, TDAH, entre outros.
-
-Esses profissionais são altamente demandados em clínicas e instituições que oferecem suporte a esses públicos, permitindo uma atuação direta na avaliação e intervenção de questões relacionadas ao desenvolvimento e à aprendizagem. Além da psicologia clínica tradicional, essa especialização amplia as possibilidades de atuação dos psicólogos em setores da saúde focados na infância e adolescência, colaborando com equipes multidisciplinares em hospitais, centros de reabilitação e ONGs. Outro campo importante é a educação, onde psicólogos especializados podem atuar em escolas, ajudando no desenvolvimento de adaptações curriculares e no suporte ao aprendizado de crianças com necessidades especiais.
+Graduado em Psicologia e especialização em Neuropsicologia pelo CEPSIC – HCFMUSP. Mestre e Doutor em Psicologia pela Universidade São Francisco/ SP, com área de concentração em Avaliação Psicológica, bolsista pela CAPES. Presidente da Clínica Luria – espaço terapêutico, desenvolvimento e pesquisa. Atualmente, é coordenador das especializações em Neuropsicologia,

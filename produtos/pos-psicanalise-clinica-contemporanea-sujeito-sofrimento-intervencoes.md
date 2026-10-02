@@ -22,6 +22,9 @@ O sujeito inserido na cultura é marcado e atravessado por questões que o lanç
 ## Resultados
 Você irá compreender a estruturação psíquica a partir de uma perspectiva psicanalítica, propiciando uma abordagem crítica das diversas formas de sofrimento psíquico e as particularidades de intervenção em múltiplos contextos.
 
+## Para quem é o curso
+Profissionais formados em Psicologia, exclusivamente.
+
 ## Diferenciais do curso
 - Transmitir a psicanálise, fornecendo embasamento para melhor conhecimento do sujeito do inconsciente.
 - Abordar as diversas formas de sofrimento psíquico, problematizando-as e fornecendo subsídios para compreendê-las e intervir considerando sua complexidade.

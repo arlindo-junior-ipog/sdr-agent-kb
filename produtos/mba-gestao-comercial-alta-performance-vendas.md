@@ -1,91 +1,65 @@
 ---
-aprovado_por: comercial
-atualizado_em: 2026-08-10
+aprovado_por: pendente de revisão do Comercial
+atualizado_em: 2026-10-02
 categoria: produto
 curso: mba-gestao-comercial-alta-performance-vendas
 curso_id: 1302
 ---
 
-# MBA em Gestão Comercial e Alta Performance em Vendas
-
-## Resumo para qualificação (SPIN)
-Indicado para o lead que menciona: técnicas avançadas de negociação, liderança de
-times comerciais, formação de preço, ou marketing digital para vendas. **Atenção:**
-forte sobreposição com outro MBA de vendas já modelado, mesmo coordenador — ver
-"Alertas".
+# MBA Gestão Comercial e Alta Performance em Vendas
 
 ## Ficha técnica
 - **Tipo:** MBA
 - **Carga horária:** 432 horas
-- **Modalidade:** On-line e Ao Vivo (via Zoom)
-- **Estrutura:** 12 módulos
-- **Horários:** 1 final de semana por mês — Sexta 18h–23h, Sábado 08h–19h, Domingo
-  08h–13h
-- **Atividades práticas:** modelo de Sala de Aula Invertida no ambiente virtual
+- **Modalidade:** On-line e Ao Vivo
+- **Formato (conforme o material):** 1 final de semana por mês; 12 módulos
+- **Atividades práticas:** As atividades práticas acontecem utilizando o modelo de Sala de Aula Invertida. Trata-se do estudo do conteúdo organizado pelo professor, com a realização de atividades de ancoragem e preparatórias que envolvem cases temáticos e aplicação de ferramentas, potencializando a aprendizagem e retenção do conteúdo durante as aulas ao vivo. Sexta 18h às 23h
+
+## Sobre o curso
+Vender é cada vez mais um exercício de entender para atender. Em um mundo on demand, responder na velocidade do consumidor e criar momentos mágicos passa a ser um diferencial comparativo. No ambiente 4.0, mudam-se relações, o consumidor passa a ser mais bem abastecido por informações em tempo real e ele é o centro da discussão. Engajamento, empoderamento, diversidade, comportamento social, tribos e clusters impelem um ritmo de mudança frenético e profissionais comerciais precisam estar munidos não só de retórica, porém de muito embasamento técnico científico para a melhor negociação. Na velocidade que o mercado muda, novas competências surgem para o profissional da área comercial, dentre elas se destacam: Visão Estratégica, Conhecimento Econômico, Análise de Dados, Negociação, Trabalho em Equipe, Marketing Digital, Liderança, Flexibilidade Cognitiva e muita capacidade empreendedora face às mudanças sistêmicas.
 
 ## Para quem é o curso
-Empresários, executivos, consultores e empreendedores com vivências e experiências
-distintas, independentemente do tipo de negócio ou idade.
+- Empresários, Executivos, Consultores, Empreendedores com vivências e experiências distintas, independentemente do tipo de negócio ou idade, pois o propósito singular e fundamental é preconizar o diverso.
 
-## Documentação necessária para matrícula
-Não especificada explicitamente no material de origem.
+## O que você vai fazer no curso
+- Desenvolver habilidades de alta performance em vendas, aprendendo a dominar técnicas de negociação avançadas e estratégias orientadas ao cliente, essenciais para se destacar em um mercado dinâmico e competitivo
+- Aprimorar suas competências de liderança e trabalho em equipe, fortalecendo sua capacidade de liderar e colaborar em um cenário empresarial em constante transformação
+- Expandir sua visão estratégica e capacidade de análise, com uma imersão em conhecimentos econômicos e análise de dados, permitindo que você antecipe as demandas do mercado e tome decisões mais assertivas
+- Dominar o marketing digital e técnicas de engajamento, criando experiências únicas e respondendo rapidamente às necessidades dos consumidores, para construir relacionamentos duradouros e aumentar o engajamento
 
 ## Módulos (ementa resumida)
+As ementas poderão ser ajustadas conforme demandas de mercado, novas legislações, novos cenários e contextos.
+
 1. Gestão de Vendas, Plano e Criação da Política Comercial
+   - Desenvolver habilidades estratégicas e operacionais necessárias para a construção de uma política comercial eficaz.
+   - Os participantes aprenderão sobre as melhores práticas em vendas, elaboração de planos comerciais e gestão de equipes de vendas, com foco em resultados e maximização de performance.
 2. Comunicação, Oratória e Marketing Pessoal
+   - Capacitar os alunos a desenvolverehabilidades essenciais de comunicação eficaz e oratória, que são fundamentais para o sucesso nas vendas e nas interações profissionais.
+   - Os participantes aprenderão a construir uma imagem positiva e a utilizar técnicas de marketing pessoal para se destacarem no mercado e influenciarem seus públicos.
 3. Marketing: Inteligência de Mercado e CRM
+   - Proporcionar aos alunos uma compreensão aprofundada das técnicas de coleta e análise de dados de mercado, além do uso de sistemas de CRM para otimizar a gestão do relacionamento com os clientes.
+   - Os participantes aprenderão como transformar informações em conhecimento estratégico para conduzir decisões de marketing e vendas.
 4. Formação de Preço e Compliance
+   - Capacitar os participantes a entenderem a estrutura de formação de preços, suas estratégias e a importância do compliance nas práticas de vendas, garantindo a conformidade legal e ética nas transações comerciais.
 5. Direito e Relações Comerciais
+   - Proporcionar uma compreensão aprofundada das questões legais que envolvem as relações comerciais, capacitando os participantes a atuarem de maneira ética e legalmente segura no ambiente de vendas e negociações.
 6. Negociação
+   - Aspectos conceituais associados ao processo de negociação.
+   - Negociação: aspectos relacionais.
+   - Negociação: aspectos substantivos.
+   - Negociação: aspectos processuais de execução.
 7. Vendas em Alta Performance
+   - Capacitar os participantes a aprimorar suas habilidades de vendas, utilizando técnicas avançadas e estratégias comprovadas para maximizar resultados e alcançar um desempenho superior.
 8. Gestão de Canais de Distribuição e Compras
+   - Proporcionar aos alunos uma compreensão abrangente sobre a gestão de canais de distribuição e o processo de compras, capacitando-os a tomar decisões estratégicas que otimizem a logística e a eficiência operacional das organizações.
 9. Modelos de Negócios Digitais: E-Commerce, Marketplace e IA
-10. Empreendedorismo: Como Estruturar e Planejar um Negócio
+   - Capacitar os participantes a entender e aplicar diferentes modelos de negócios digitais, focando em e-commerce, marketplaces e a integração de inteligência artificial para otimização de processos e estratégias comerciais.
+10. Empreendedorismo: Como estruturar e planejar um negócio
+   - Capacitar os participantes a desenvolverem habilidades e conhecimentos necessários para estruturar e planejar um novo negócio, desde a concepção da ideia até a execução do plano de negócios.
 11. Liderança para Times Comerciais
-12. Venda de Serviços e Experiência dos Clientes (com técnicas de neurovendas)
+   - Capacitar líderes e membros de equipes comerciais a aplicar princípios de liderança eficaz, visando aumentar o desempenho das vendas e a motivação da equipe.
+12. Venda de Serviços e Experiência dos Clientes
+   - Capacitar líderes e membros de equipes comerciais a aplicar princípios de liderança eficaz combinados com técnicas de neurovendas, visando aumentar o desempenho das vendas e a motivação da equipe.
 
 ## Coordenação
-Neiva Alessandra Coelho Maróstica — Graduada em Informática/Sistemas de Informação,
-MBA Executivo em Gestão Empresarial, Mestre em Administração, Educação e
-Comunicação, Doutorado em Administração (Flórida, EUA). 27 anos de experiência em
-projetos de TI e consultoria; sócia de consultoria e fundadora da SharkMinds; 17 anos
-como professora de graduação e pós-graduação. Também coordena
-`produtos/mba-gestao-comercial-vendas-inteligencia-mercado.md` (ver "Alertas").
-
-## Diferenciais para argumentação
-- Combina formação comercial clássica (negociação, formação de preço, canais de
-  distribuição) com módulos digitais (e-commerce, marketplace, IA).
-- Módulo específico de Direito e Relações Comerciais, incomum em MBAs de vendas
-  genéricos.
-- Coordenadora com formação híbrida em TI e gestão, trazendo visão de dados e
-  sistemas para a área comercial.
-
-## Objeções comuns específicas deste curso
-- "Qual a diferença entre esse MBA e o MBA em Gestão Comercial, Estratégia em Vendas
-  e Inteligência de Mercado, da mesma coordenadora?" → Ver alerta abaixo — os dois
-  materiais têm ementas parcialmente sobrepostas; confirmar com o consultor qual está
-  ativo antes de posicionar para o lead.
-
-## Alertas
-- **Forte sobreposição com outro MBA de vendas já modelado, mesma coordenadora:**
-  `produtos/mba-gestao-comercial-vendas-inteligencia-mercado.md` (432h, Presencial,
-  coordenado por "Neiva Maróstica" — mesma pessoa) tem carga horária idêntica e
-  módulos claramente sobrepostos (Comunicação/Oratória/Marketing Pessoal idêntico;
-  Formação de Preço e Compliance, Modelos de Negócios Digitais, Negociação e
-  Distribuição/Canais em ambos). A principal diferença identificada é a modalidade
-  (este é On-line e Ao Vivo; o outro é Presencial) e alguns módulos exclusivos de
-  cada um (este tem Direito e Relações Comerciais; o outro tem Neurovendas, Trade
-  Marketing e Direito do Consumidor como módulos dedicados). **Risco real de o
-  agente confundir os dois cursos ou apresentá-los como equivalentes.**
-  **Recomendação:** Comercial deve confirmar se são (a) duas turmas do mesmo curso em
-  formatos diferentes, (b) uma versão substituindo a outra (o arquivo de
-  "Inteligência de Mercado" está em formato antigo, sem o padrão atual de
-  modelagem, o que sugere que pode ser conteúdo desatualizado), ou (c) dois produtos
-  comerciais genuinamente distintos. **Pergunta de desambiguação sugerida:** "Você
-  prefere um formato presencial ou 100% online e ao vivo para este MBA de vendas?"
-
-## Mercado de Trabalho e Áreas de Atuação
-
-Em um mundo onde o "on demand" prevalece, a capacidade de responder rapidamente às demandas dos consumidores e criar experiências memoráveis tornou-se um diferencial competitivo essencial. O MBA em Gestão Comercial e Alta Performance em Vendas é ideal para Empresários, Executivos e Consultores que buscam elevar seus resultados no mercado, aprimorando suas habilidades para enfrentar os desafios do ambiente 4.0 com excelência.
-
-**Áreas de atuação:** Este MBA capacita você a aplicar as melhores práticas e técnicas de gestão para maximizar a performance em qualquer contexto comercial, seja em grandes corporações, startups ou pequenas empresas em crescimento. As áreas de atuação incluem: liderança em equipes de vendas, consultoria empresarial, gestão de departamentos comerciais, desenvolvimento de novos negócios ou projetos inovadores, e planejamento e execução de campanhas comerciais orientadas para resultados.
+Graduada em Informática - Sistemas de Informação, MBA Executivo em Gestão Empresarial, Mestre em Administração, Educação e Comunicação, Doutorado em Administração na Florida EUA. Com 27 anos de experiência profissional, em diversos projetos na área de TI em clientes de setores variados, do agrobusiness, setor financeiro, empresas de serviços. Atualmente é Sócia em uma empresa de consultoria e treinamento empresarial, Fundadora do SharkMinds. E 17 anos de experiência como Professora de Graduação e Pós- Graduação, em Universidades Públicas e Particulares, nas disciplinas de Sistemas de Informação, Gestão de Serviços e Endomarketing, Comercio Eletrônico, Gestão de Marketing Digital, Gerenciamento de Processos. Autora, colunista e na área acadêmica leciono para alunos de Graduação e MBA.

@@ -22,6 +22,9 @@ O curso de especialização Master em Fisioterapia Traumato-Ortopédica e Despor
 ## Resultados
 • Ao final do curso, você estará capacitado para exercer com excelência a assistência em Traumatologia, Ortopedia e Esportes, utilizando as mais modernas e eficazes técnicas do cenário mundial da Fisioterapia; • Irá aprofundar conhecimentos científicos através de aulas e cases, apresentados por um corpo docente formado por pesquisadores e clínicos experientes e renomados internacionalmente; • Desenvolverá competências e habilidades em Exercícios Fisioterapêuticos, Raciocínio Clínico e técnicas de Fisioterapia Manual e Postural; • Estará capacitado para a avaliação e tratamento fisioterapêuticos de excelência das afecções em Traumatologia, Ortopedia e Esportes.
 
+## Para quem é o curso
+Profissionais graduados em Fisioterapia.
+
 ## Diferenciais do curso
 - Fortíssima base teórico-científica e ênfase na prática;
 - Desenvolvimento de habilidades voltadas ao raciocínio clínico e compreensão/ execução da avaliação e do tratamento fisioterapêuticos de alto nível, e não um simples e insuficiente ensino de técnicas;

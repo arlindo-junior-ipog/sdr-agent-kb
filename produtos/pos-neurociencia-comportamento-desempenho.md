@@ -11,10 +11,11 @@ curso_id: 845
 ## Ficha técnica
 - **Tipo:** Pós-Graduação
 - **Carga horária:** 432 horas
-- **Modalidade:** Presencial
+- **Modalidade:** On-line e Ao Vivo | Presencial
+- **Atividades práticas:** Ambiente Virtual As atividades práticas acontecem utilizando o modelo de Sala de Aula invertida. Trata-se do estudo do conteúdo organizado pelo professor, com a realização de atividades de ancoragem e preparatórias que envolvem cases temáticos e aplicação de ferramentas, potencializando a aprendizagem e retenção do conteúdo durante as aulas ao vivo Aulas On-line e Ao Vivo via plataforma Zoom
 
 ## Sobre o curso e para quem é
-Em um mundo em constante mudança, com o mercado cada vez mais competitivo, o especialista em neurociência e comportamento tem amplas possibilidades de atuação no desenvolvimento de pessoas, na gestão de negócios, na elaboração de estratégias de marketing, no desenvolvimento de sistemas informatizados, na arquitetura, design e na educação aplicando conhecimento científico sobre o funcionamento do cérebro. Com o avanço da transformação digital e da indústria 4.0, tecnologias como Inteligência artificial, machine learning, robótica, data science e internet das coisas já estão extinguindo inúmeros postos de trabalho. As novas demandas profissionais cada vez mais estão voltadas para soft skills, para o ser humano. A neurociência proporciona conhecimento científico sobre tomada de decisão, emoções, performance em ambientes de stress, desenvolvimento de pessoas, mudança de comportamento, adaptabilidade, resiliência e aprendizado, áreas críticas para o novo mercado de trabalho. PARA QUEM É Psicólogos, profissionais das áreas de gestão, profissionais de marketing, profissionais de educação, empresários, profissionais liberais e Gestores públicos e privados. 432 horas 1 final de semana por mês 12 módulos Sexta 18h às 23h Sábado 08h às 19h Domingo 08h às 13h Aulas presenciais
+Em um mundo em constante mudança, com o mercado cada vez mais competitivo, o especialista em neurociência e comportamento tem amplas possibilidades de atuação no desenvolvimento de pessoas, na gestão de negócios, na elaboração de estratégias de marketing, no desenvolvimento de sistemas informatizados, na arquitetura, design e na educação aplicando conhecimento científico sobre o funcionamento do cérebro. Com o avanço da transformação digital e da indústria 4.0, tecnologias como Inteligência artificial, machine learning, robótica, data science e internet das coisas já estão extinguindo inúmeros postos de trabalho. As novas demandas profissionais cada vez mais estão voltadas para soft skills, para o ser humano. A neurociência proporciona conhecimento científico sobre tomada de decisão, emoções, performance em ambientes de stress, desenvolvimento de pessoas, mudança de comportamento, adaptabilidade, resiliência e aprendizado, áreas críticas para o novo mercado de trabalho.
 
 ## O que você vai fazer no curso
 - Ampliar e aprimorar a capacitação de nível superior relacionada à neurociência aplicada ao comportamento e desempenho
@@ -27,12 +28,12 @@ As ementas poderão ser ajustadas conforme demandas de mercado, novas legislaç�
    - Conceituação e delimitação da neurociência.
    - Evolução do cérebro e a história da neurociência. Introdução à neuroanatomia e neurofisiologia, sistema nervoso central e periférico, sistema sensorial e percepção da realidade.
    - Aplicação da neurociência em desenvolvimento de pessoas e negócios.
-2. Emoções–inteligência emocional e desempenho pessoal e profissional
+2. Emoções – Inteligência emocional e desempenho pessoal e profissional
    - Definição de emoção, anatomia e fisiologia do sistema límbico.
    - Emoções e tomada de decisão.
    - Inteligência emocional - abordagem neurocientífica e correlações com a psicologia.
    - Autoconsciência emocional, autogerenciamento, consciência social e gerenciamento de comunicação e relacionamento.
-3. Neurotransmissores e Hormônios – a química do comportamento humano
+3. Neurotransmissores e Hormônios – A química do comportamento humano
    - Sistema endócrino – anatomia e funções, hormônios e comportamento humano.
    - Neurotransmissores – stress, bem-estar e vínculos sociais.
    - Sinapses e redes neurais no desenvolvimento de respostas comportamentais.

@@ -1,6 +1,6 @@
 ---
-aprovado_por: comercial
-atualizado_em: 2026-08-10
+aprovado_por: pendente de revisão do Comercial
+atualizado_em: 2026-10-02
 categoria: produto
 curso: extensao-formacao-analise-comportamental
 curso_id: 1082
@@ -8,59 +8,25 @@ curso_id: 1082
 
 # Curso de Extensão Universitária: Formação de Análise Comportamental
 
-## Resumo para qualificação (SPIN)
-Indicado para o lead que menciona: perfil comportamental, DISC, ou análise
-comportamental aplicada a gestão de pessoas. Curso curto, bom fit para quem trabalha
-com pessoas em qualquer frente (gestão, RH, vendas, terapia).
-
 ## Ficha técnica
 - **Tipo:** Curso de Extensão Universitária
 - **Carga horária:** 20 horas
-- **Modalidade:** On-line e Ao Vivo (via Zoom)
-- **Estrutura:** conteúdo único, cobrindo 4 teorias de mapeamento de perfil
-  comportamental (principal delas o DISC)
-- **Horários:** "Confirme com seu consultor as datas e horários das aulas"
-- **Atividades práticas:** modelo de Sala de Aula Invertida
+- **Modalidade:** On-line e Ao Vivo
+- **Atividades práticas:** As atividades práticas acontecem utilizando o modelo de Sala de Aula invertida. Tratase do estudo do conteúdo organizado pelo professor, com a realização de atividades de ancoragem e preparatórias que envolvem cases temáticos e aplicação de ferramentas, potencializando a aprendizagem e retenção do conteúdo durante as aulas ao vivo.
+
+## Sobre o curso
+O curso de Analista Comportamental foi elaborado para te capacitar na aplicação de metodologias de análise comportamental em contextos profissionais e pessoais. A formação tem carga horária de 20 horas, entre desenvolvimento, aprofundamento do conteúdo em 4 teorias de mapeamento de perfil comportamental, sendo a principal delas o DISC, e atividades práticas do conhecimento em diversas circunstâncias, como desenvolvimento pessoal, profissional, gestão de pessoas, R&S, T&D, desenvolvimento de liderança, aumento de produtividade, team building, tomada de decisões estratégicas, gestão de conflitos, entre outras. O curso é destinado para que você entenda o seu perfil comportamental e de outras pessoas, levando-o a uma melhor gestão comportamental, promovendo o desenvolvimento de soft skills, melhorando relacionamentos e gerando atitudes de resultados.
 
 ## Para quem é o curso
-Gestores, profissionais de Gestão de Pessoas, profissionais de Recrutamento &
-Seleção e Treinamento & Desenvolvimento, coaches, terapeutas, psicólogos,
-consultores, profissionais da área de vendas e outros que queiram desenvolver
-conhecimento e habilidades de gestão comportamental.
+- É Pessoas que querem desenvolver conhecimento e habilidades de gestão comportamental, como: Gestores, Profissionais de Gestão de Pessoas, Profissionais de R&S e T&D, Coaches, Terapeutas, Psicólogos, Consultores, Profissionais da área de vendas e outros.
 
-## Documentação necessária para matrícula
-Não especificada explicitamente no material de origem.
+## O que você vai fazer no curso
+- Conhecer e identificar perfis comportamentais.
+- Desenvolver HAC (Habilidades, Atitudes e Competências).
+- Promover gestão de conflitos e respeito as diferenças.
+- Desenvolver comunicação eficaz, soft skills.
 
 ## Módulos (ementa resumida)
-Conteúdo único cobrindo: entendimento do comportamento, metodologias de análise
-comportamental, os 4 perfis comportamentais (com foco no modelo DISC),
-aprofundamento do próprio perfil, correlação entre perfis, análise de fit cultural,
-aplicações práticas do conhecimento, e ética e respeito às diversidades
-comportamentais.
+As ementas poderão ser ajustadas conforme demandas de mercado, novas legislações, novos cenários e contextos.
 
-## Coordenação
-Poliana Landin — Graduada em Psicologia (PUC-GO), Mestre em Psicologia com ênfase em
-Avaliação Psicológica (Universidade São Francisco/SP). Certificada internacionalmente
-como Coach de Pontos Fortes pela Gallup. Coordenadora do MBA Executivo em
-Desenvolvimento Humano e Psicologia Positiva e do MBA em Neurociência e Psicologia
-Positiva no Desenvolvimento Humano do IPOG, com mais de 80 turmas coordenadas na
-Especialização em Avaliação Psicológica.
-
-## Diferenciais para argumentação
-- Coordenadora com certificação internacional Gallup (Coach de Pontos Fortes) e vasta
-  experiência prévia coordenando formações de avaliação psicológica no IPOG.
-- Aplicável a múltiplos contextos: desenvolvimento pessoal, R&S, T&D, liderança, team
-  building e gestão de conflitos.
-- Curso curto (20h) e direto, com foco prático imediato no autoconhecimento e
-  aplicação em gestão de pessoas.
-
-## Objeções comuns específicas deste curso
-- "Esse curso é uma certificação DISC oficial?" → O material indica que o DISC é a
-  principal das 4 teorias de mapeamento trabalhadas, mas não afirme certificação
-  DISC oficial de terceiros sem confirmar com o consultor — trate como formação do
-  IPOG em análise comportamental.
-
-## Mercado de Trabalho e Áreas de Atuação
-A Formação de Análise Comportamental abre oportunidades para trabalhar com gestão de pessoas, consultoria de desenvolvimento de carreiras, R&S, T&D, impulsionamento de liderança e team building, além de alinhamento de estratégias dentro de organizações.
-
-**Áreas de atuação:** Quem faz o curso de análise comportamental pode trabalhar no setor de TH/RH de empresas de todos os portes, realizar consultorias especializadas em desenvolvimento de times e lideranças, bem como oferecer cursos e palestras na área.
+20. 

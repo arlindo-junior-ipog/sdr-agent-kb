@@ -23,7 +23,8 @@ Muitas faculdades não forneceram e ainda não fornecem a disciplina Patologia d
 
 ## O que você vai fazer no curso
 - Aprender a identificar, diagnosticar e prevenir manifestações patológicas em edificações, desde a fase de projeto até a manutenção predial
-- Desenvolver competências para avaliar desempenho construtivo, gerenciar a qualidade das obras e elaborar diagnósticos técnicos aplicáveis à prática profissional Aplicar metodologias e técnicas para projetar obras mais duráveis e propor soluções eficazes de recuperação e reforço estrutural
+- Desenvolver competências para avaliar desempenho construtivo, gerenciar a qualidade das obras e elaborar diagnósticos técnicos aplicáveis à prática profissional
+- Aplicar metodologias e técnicas para projetar obras mais duráveis e propor soluções eficazes de recuperação e reforço estrutural
 - Vivenciar estudos de caso, visitas técnicas e análises práticas orientadas por especialistas, conectando teoria e aplicação no contexto real da construção civil
 
 ## Módulos (ementa resumida)

@@ -1,6 +1,6 @@
 ---
-aprovado_por: comercial
-atualizado_em: 2026-08-10
+aprovado_por: pendente de revisão do Comercial
+atualizado_em: 2026-10-02
 categoria: produto
 curso: mba-gestao-qualidade-engenharia-producao
 curso_id: 44
@@ -8,75 +8,54 @@ curso_id: 44
 
 # MBA em Gestão da Qualidade e Engenharia da Produção
 
-## Resumo para qualificação (SPIN)
-Indicado para o lead que menciona: Lean Six Sigma, ISO 9001/14001/45001, ou
-planejamento e controle de produção (PCP). Bom fit para engenheiros e profissionais
-de áreas industriais.
-
 ## Ficha técnica
 - **Tipo:** MBA
 - **Carga horária:** 432 horas
-- **Modalidade:** Presencial
-- **Estrutura:** 12 módulos
-- **Horários:** 1 final de semana por mês — Sexta 18h–23h, Sábado 08h–19h, Domingo
-  08h–13h
-- **Atividades práticas:** modelo de Sala de Aula Invertida
+- **Modalidade:** On-line e Ao Vivo | Presencial
+- **Formato — On-line e Ao Vivo (conforme o material):** 1 final de semana por mês; 12 módulos; Sexta 18h às 23h; Sábado 08h às 19h; Domingo 08h às 13h; Aulas On-line e Ao Vivo via plataforma Zoom
+- **Formato — Presencial (conforme o material):** 1 final de semana por mês; 12 módulos; Sexta 18h às 23h; Sábado 08h às 19h; Domingo 08h às 13h; Aulas Presenciais
+- **Atividades práticas:** As atividades práticas acontecem utilizando o modelo de Sala de Aula Invertida. Trata-se do estudo do conteúdo organizado pelo professor, com a realização de atividades de ancoragem e preparatórias que envolvem cases temáticos e aplicação de ferramentas, potencializando a aprendizagem e retenção do conteúdo durante as aulas ao vivo.
+
+## Sobre o curso
+O MBA em Engenharia de Produção e Gestão da Qualidade capacita profissionais a impulsionar a eficiência operacional e a excelência na gestão da qualidade, com foco em resultados concretos. O curso explora ferramentas como Lean Manufacturing e Six Sigma para reduzir perdas e aumentar a produtividade. Além disso, aborda os principais aspectos dos Sistemas de Gestão da Qualidade (ISO 9001) e Gestão Ambiental (ISO 14001), com foco em sustentabilidade e redução de impactos. Temas como Inteligência em Planejamento e Programação de Produção, Teoria dos Gargalos e Supply Chain fornecem uma visão estratégica para otimização. O MBA inclui tecnologias emergentes como IA e IoT, preparando os alunos para a Indústria 4.0.
 
 ## Para quem é o curso
-Profissionais de áreas diversas com abrangência multidisciplinar: Engenharia de
-Produção, Engenharia Química, Química, Química Industrial, Biologia, Engenharia
-Mecânica, Engenharia Elétrica, Engenharia de Alimentos, Engenharia da Qualidade,
-Farmácia, Administração de Empresas e outras, especialmente quem atua ou deseja atuar
-no segmento industrial.
+- Profissionais de engenharia, gestores de produção, consultores de qualidade, administradores e todos que buscam aprimorar suas habilidades em gestão de qualidade e engenharia de produção, com foco em tecnologia e sustentabilidade.
 
-## Documentação necessária para matrícula
-Não especificada explicitamente no material de origem.
+## O que você vai fazer no curso
+- Desenvolver competências estratégicas para liderar projetos de otimização de processos produtivos e gestão da qualidade, utilizando as ferramentas mais avançadas do mercado.
+- Dominar as normas ISO 9001 e ISO 14001, promovendo a melhoria contínua e a sustentabilidade nos processos organizacionais.
+- Gerenciar custos industriais e otimizar recursos, garantindo uma visão estratégica e a maximização da competitividade.
+- Aprender a aplicar metodologias Lean Manufacturing e Six Sigma, que visam reduzir perdas e aumentar a eficiência em toda a cadeia produtiva.
+- Integrar tecnologias emergentes como IA e IoT nas operações industriais, alinhando-se às tendências da Indústria 4.0.
 
 ## Módulos (ementa resumida)
-1. Sistemas de Gestão da Qualidade — ISO 9001
-2. MASP — Metodologia para Análise e Solução de Problemas
-3. Sistemas de Gestão Ambiental — Norma ISO 14001
-4. Saúde e Segurança Ocupacional — Norma ISO 45001
-5. Gestão de Projetos — PMI
-6. Lean Six Sigma I
-7. Lean Six Sigma II — Yellow Belt (com possibilidade de certificação à parte)
-8. Engenharia de Produtos: QFD e DOE
-9. Planejamento e Controle de Produção
-10. Gestão em Supply Chain
-11. Gestão Estratégica de Custos
-12. Mapeamento de Processos: BSC e BPM
+As ementas poderão ser ajustadas conforme demandas de mercado, novas legislações, novos cenários e contextos.
+
+1. Lean Evolution: Eficiência e Inovação em Ambientes Ágeis e Competitivos
+   - Este módulo capacita os alunos na aplicação prática dos conceitos e ferramentas Lean, com foco na eliminação de desperdícios e maximização da eficiência em diversos setores. A ementa abrange as origens do Lean, detalhando o Toyota Production System (TPS) e seus pilares fundamentais: Just-in-Time, Jidoka, Heijunka e o sistema puxado contínuo, visando melhor qualidade, menor custo e redução do ciclo order-to-cash. O módulo também explora a expansão do Lean para outros segmentos, como Lean Healthcare (Saúde), Lean Construction (Construção Civil) e Lean Office (atividades administrativas). Também é abordado o uso de metodologias ágeis, como a aplicação do Kanban no desenvolvimento de software, integrando o Lean ao universo Agile.
+2. Inteligência em Planejamento e Controle de Produção
+   - Este módulo explora estratégias avançadas e tecnologias emergentes para a otimização de processos produtivos, com foco na integração entre planejamento, programação e controle, a partir de uma abordagem orientada por análise de dados. Os alunos aprenderão a aplicar conceitos de Planejamento e Programação da Produção, Sequenciamento e Controle de Operações, além de métodos como o Planejamento da Demanda e da Capacidade e o MRP (Manufacturing Resource Planning). Esses conceitos serão aliados às tecnologias de MES (Manufacturing Execution System) e MOM (Manufacturing Operation Management) para oferecer uma visão holística e integrada da operação. O módulo também abordará o uso de algoritmos de otimização, técnicas preditivas e prescritivas, Digital Twin (gêmeos digitais) e outras ferramentas de análise de dados, com o objetivo de aprimorar a tomada de decisão, aumentar a eficiência operacional e garantir uma resposta ágil às demandas dinâmicas do mercado.
+3. Sistemas de Gestão da Qualidade com Foco em Resultados (ISO 9001)
+   - Este módulo é projetado para capacitar os participantes a implantar e gerenciar sistemas de gestão da qualidade com ênfase em agregar valor estratégico aos produtos e serviços, considerando a perspectiva de diversos stakeholders. A ementa cobre os requisitos fundamentais da norma ISO 9001, incluindo a definição de políticas e objetivos da qualidade, a gestão de processos e a análise crítica de resultados. Os participantes aprenderão a aplicar técnicas para a implementação de práticas eficazes na gestão da qualidade, realizar auditorias, e utilizar indicadores para monitorar e melhorar continuamente a qualidade. O módulo também aborda a importância do envolvimento da liderança e o engajamento das equipes para garantir que as iniciativas de qualidade estejam alinhadas com os objetivos estratégicos da organização.
+4. Sustentabilidade e Gestão Ambiental (ISO 14001)
+   - Este módulo é projetado para proporcionar aos participantes uma compreensão robusta dos princípios e práticas essenciais para implementar e manter um sistema de gestão ambiental eficaz considerando o ciclo de vida dos produtos. A ementa abrange os fundamentos da norma ISO 14001, incluindo o desenvolvimento e a integração de políticas ambientais, a identificação e a gestão de aspectos e impactos ambientais e a conformidade com regulamentações e requisitos legais. Os participantes explorarão técnicas para realizar auditorias internas, definir objetivos e metas ambientais, e implementar ações corretivas e preventivas. O módulo também aborda estratégias para promover a sustentabilidade organizacional, melhorar o desempenho ambiental e engajar as partes interessadas, introduzindo os conceitos de produção mais limpa (P+L), análise de ciclo de vida (ACV), design ambiental (ED), ecologia industrial e desenvolvimento industrial sustentável.
+5. Fundamentos do Six Sigma e Melhoria Contínua I
+   - Esta parte inicial desse módulo introduz os conceitos fundamentais do Six Sigma, focando no papel do Yellow Belt dentro de um projeto de melhoria contínua. Os participantes aprenderão sobre a história e os princípios do Six Sigma, com ênfase nas metodologias DMAIC (Definir, Medir, Analisar, Melhorar e Controlar). Além disso, serão apresentados os principais indicadores de desempenho (KPIs), ferramentas básicas de controle de qualidade e análise de dados, como fluxogramas e diagramas de causa e efeito.
+6. Fundamentos do Six Sigma e Melhoria Contínua II – GREEN BELT
+   - Neste módulo, os alunos aprofundam o uso prático das ferramentas Six Sigma, aplicando conceitos como controle estatístico de processos (CEP), análise de variabilidade e técnicas de resolução de problemas. Serão exploradas ferramentas como o diagrama de Pareto e histogramas, permitindo que os participantes colaborem em equipes de melhoria e apoiem a coleta e análise de dados. Ao final, os participantes estarão aptos a participar ativamente de projetos de melhoria contínua, implementando soluções baseadas em dados. Opcionalmente, após a conclusão dos dois módulos (integralmente sem faltas, portanto, não se aplica a quem assistir gravado), o aluno poderá executar um projeto complementar acordado com o professor, e se aprovado, cumprindo com qualidade os requisitos do projeto, obterá um certificado à parte de Green Belt Six Sigma, cuja carga horária corresponderá a 72 horas de carga teórica, mais 8 horas de prática referentes à condução do projeto, totalizando 80 horas.
+7. Mapeamento, Análise de Processos e Teoria dos Gargalos
+   - Este módulo visa proporcionar aos participantes uma compreensão profunda e prática das técnicas essenciais para identificar, analisar e otimizar processos em organizações. A ementa abrange o mapeamento detalhado de processos utilizando ferramentas como fluxogramas e BPMN, seguido por metodologias avançadas de análise para diagnosticar ineficiências e oportunidades de melhoria. O módulo também explora a Teoria das Restrições (TOC), enfatizando a identificação e o gerenciamento de gargalos para maximizar o fluxo e a capacidade dos processos.
+8. Desenvolvimento de Lideranças Industriais
+   - Este módulo é projetado para capacitar profissionais a se tornarem líderes eficazes em ambientes industriais dinâmicos e desafiadores. A ementa inclui tópicos fundamentais como estratégias de liderança adaptativa, gestão de equipes de alto desempenho e comunicação assertiva. Os participantes explorarão práticas de liderança específicas para o setor industrial, abordando a motivação de equipes, a gestão de mudanças e a resolução de conflitos. Além disso, o módulo enfatiza a importância da tomada de decisão estratégica e da criação de uma cultura organizacional positiva.
+9. Gestão Estratégica em Supply Chain
+   - Este módulo oferece uma visão abrangente e prática das melhores práticas e estratégias para otimizar a cadeia de suprimentos em um ambiente globalizado. A ementa cobre aspectos fundamentais como planejamento de demanda, gestão de inventário e logística integrada, com ênfase na coordenação eficaz entre fornecedores, fabricantes e distribuidores. Os participantes explorarão técnicas avançadas para a gestão de riscos, negociação com fornecedores e implementação de tecnologias emergentes como IoT e Big Data para aprimorar a visibilidade e a eficiência da cadeia de suprimentos. Através de estudos de caso, simulações e análises de processos, os alunos aprenderão a identificar e superar desafios, melhorar a colaboração entre os parceiros da cadeia e maximizar o valor entregue ao cliente, garantindo uma operação mais ágil e competitiva.
+10. Gerenciamento de Custos Industriais
+   - Este módulo é projetado para fornecer aos participantes uma compreensão profunda das técnicas e práticas essenciais para controlar e otimizar os custos em ambientes industriais. A ementa abrange a análise detalhada de custos diretos e indiretos, métodos de alocação de custos e a aplicação de técnicas de contabilidade de custos, como custo padrão e custo baseado em atividades (ABC). Os participantes também explorarão estratégias para o monitoramento e controle de custos operacionais, a elaboração de orçamentos eficazes e a realização de análises de variação para identificar e corrigir desvios.
+11. Fundamentos da Indústria 4.0 e Tecnologias Emergentes
+   - Este módulo explora como a digitalização e a automação estão transformando o ambiente industrial, integrando tecnologias avançadas para otimizar a produção e a gestão. Serão abordadas inovações como Internet das Coisas (IoT), Inteligência Artificial (IA), Big Data, Computação em Nuvem e Robótica Colaborativa, que permitem maior conectividade, automação inteligente e análise de dados em tempo real. Além disso, o módulo foca na implementação de sistemas ciberfísicos e manufatura inteligente, criando um ambiente industrial mais ágil, eficiente e customizável. Os participantes aprenderão como aplicar essas tecnologias para melhorar a tomada de decisões, aumentar a produtividade e promover a inovação sustentável, tornando suas operações mais competitivas e preparadas para o futuro da indústria
+12. Gerenciamento de Processos: Boas Práticas do PMI
+   - Este módulo adota as mais recentes diretrizes e boas práticas do Project Management Institute (PMI), oferecendo uma abordagem estruturada e estratégica para a gestão de projetos em processos industriais. O curso abrange tanto metodologias preditivas (como Waterfall) quanto adaptativas (como Ágeis), explorando os ciclos de vida específicos, recursos típicos e conhecimentos essenciais dos princípios e domínios de desempenho descritos pelo Guia PMBOK (Project Management Body of Knowledge). Além disso, os padrões denominados “Grupos de Processos: Um Guia Prático” e “Ágil: Guia Prático” complementam o conteúdo programático.
 
 ## Coordenação
-Marco Túlio Bertolino — Químico, Mestre em Engenharia Ambiental (FURB), mais de 25
-anos de experiência em Gestão de Processos, Qualidade, Food Safety e Gestão
-Ambiental. Lead Auditor em Gestão da Qualidade (ISO 9001) e Segurança dos Alimentos
-(FSSC 22000/ISO 22000). Também coordena o `produtos/mba-gestao-industrial.md` e o
-MBA de Sistemas de Gestão em Segurança dos Alimentos no IPOG.
-
-## Diferenciais para argumentação
-- Possibilidade de certificação à parte em Yellow Belt de Six Sigma, ao concluir os
-  módulos 6 e 7 (48h) mais um projeto complementar aprovado — diferencial de
-  credencial reconhecida no mercado.
-- Cobertura completa das três normas ISO mais demandadas na indústria (9001, 14001,
-  45001) em módulos dedicados.
-- Corpo docente com forte presença de doutores/mestres com vivência industrial real
-  (Petrobras, entre outras).
-
-## Objeções comuns específicas deste curso
-- "O Yellow Belt em Six Sigma vem incluso automaticamente?" → Não; é uma
-  certificação à parte, condicionada à conclusão dos módulos 6 e 7 e aprovação em
-  projeto complementar acordado com o professor — não prometa como automático.
-
-## Alertas
-- Mesmo coordenador (Marco Túlio Bertolino) do `produtos/mba-gestao-industrial.md` —
-  há sobreposição de origem/estilo entre os dois (ambos tratam de gestão industrial),
-  mas este é Presencial/432h/foco em qualidade e normas ISO, enquanto o outro é
-  100% EaD/360h/foco em Lean Manufacturing, PPCP e TPM. **Pergunta de desambiguação
-  sugerida:** "Seu interesse é mais em qualidade e certificações ISO/Six Sigma, ou em
-  metodologias de produção enxuta (Lean/TPS) e manutenção industrial?"
-
-## Mercado de Trabalho e Áreas de Atuação
-
-O mercado exige profissionais que unam conhecimento técnico, visão estratégica e capacidade de inovação. Setores como automotivo, siderúrgico, farmacêutico, alimentício e eletrônico buscam especialistas capazes de implementar melhorias operacionais, reduzir desperdícios e garantir padrões rigorosos de qualidade. Com esse MBA, você estará pronto para atuar como gestor industrial, especialista em qualidade, consultor em processos produtivos ou líder de projetos de otimização.
-
-**Áreas de atuação:** Este MBA oferece uma formação completa para profissionais que desejam atuar na gestão da qualidade, engenharia de produção e otimização de processos industriais. Você poderá aplicar seus conhecimentos em gestão da qualidade e certificações (ISO 9001 e ISO 14001), manufatura enxuta e eficiência operacional (Lean Manufacturing e Six Sigma), integração de tecnologias na Indústria 4.0 (IA e IoT), gestão estratégica da produção e supply chain e planejamento e controle de custos industriais
+Químico e M.Sc. em Engenharia Ambiental pela FURB (Universidade Regional de Blumenau), Lead Auditor em Gestão da Qualidade (ISO 9001) e Segurança dos Alimentos (FSSC 22000/ISO 22000), com formação reconhecida pelo IRCA e treinamento em HACCP, acreditado pelo International HACCP Alliance. Profissional com mais de 30 anos de experiência em Gestão de Processos, Qualidade, Food Safety e Gestão Ambiental, com expertise na gestão de operações industriais, incluindo TQM, MASP, POPs, HACCP, GMP, Análise de Riscos, Gestão de Mudanças e nas normas ISO 9001, ISO 22000/FSSC 22000 e ISO 14001. Atua como consultor de empresas, palestrante e colunista no blog Food Safety Brazil. Na indústria, foi gerente corporativo de sistemas de gestão integrados (SGIs) e plant manager. Na academia, atua como professor e coordenador de pós-graduação lato sensu (MBA) em temas relacionados a Qualidade, Gestão Ambiental, Engenharia de Produção e Food Safety no IPOG – Instituto de Pós-graduação.

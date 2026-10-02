@@ -23,7 +23,8 @@ O setor elétrico passa por uma evolução constante impulsionada pela expansão
 
 ## O que você vai fazer no curso
 - Se tornar um especialista em Gestão e Engenharia de Sistemas Elétricos, capaz de trabalhar em equipe e liderar projetos
-- Desenvolver competências na área de gestão estratégica e relacionamento interpessoal Estar apto a desenvolver projetos na área da Engenharia Elétrica, em especial na área de sistemas elétricos
+- Desenvolver competências na área de gestão estratégica e relacionamento interpessoal
+- Estar apto a desenvolver projetos na área da Engenharia Elétrica, em especial na área de sistemas elétricos
 - Dominar técnicas de gestão de ativos com foco na gestão de manutenção elétrica
 
 ## Módulos (ementa resumida)

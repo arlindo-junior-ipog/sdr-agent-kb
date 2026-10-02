@@ -15,8 +15,11 @@ curso_id: 710
 - **Formato (conforme o material):** 5 Módulos; Aulas On-line e Ao vivo via plataforma Zoom; Confirme com seu consultor as datas e horários das aulas
 - **Atividades práticas:** As atividades práticas acontecem utilizando o modelo de Sala de Aula Invertida. Trata-se do estudo do conteúdo organizado pelo professor, com a realização de atividades de ancoragem e preparatórias que envolvem cases temáticos e aplicação de ferramentas, potencializando a aprendizagem e retenção do conteúdo durante as aulas ao vivo.
 
-## Sobre o curso e para quem é
-O curso Gestão e Modelagem de Projetos e Processos é ideal para quem deseja dominar a criação e melhoria de produtos, serviços e processos organizacionais. Projetos são esforços temporários que demandam planejamento e execução eficazes de atividades interligadas, sempre com recursos limitados. Para garantir entregas consistentes ao longo do tempo, as organizações precisam investir em capacitação e padronização de suas operações. A modelagem de projetos e processos visa aumentar a eficiência, competitividade e sustentabilidade no mercado. Instituições renomadas, como o PMI e a IPMA, oferecem “boas práticas” para a gestão de projetos, que ajudam profissionais e organizações a desenvolverem seus próprios métodos. Neste curso, você aprenderá técnicas essenciais para gerenciar escopo, cronograma, custos e riscos, além de utilizar ferramentas como o BIZAGI Modeler para mapear e melhorar processos. Capacite-se com as melhores práticas do mercado e eleve sua performance organizacional! PARA QUEM É O CURSO Gestores, profissionais de tecnologia da informação, análise de sistemas e programadores, engenheiros, economistas, administradores, advogados e outros que desejam realizar um curso que os prepare na prática para gerenciarem projetos e processos estando aptos para as oportunidades de empregabilidade e trabalho. DURAÇÃO
+## Sobre o curso
+O curso Gestão e Modelagem de Projetos e Processos é ideal para quem deseja dominar a criação e melhoria de produtos, serviços e processos organizacionais. Projetos são esforços temporários que demandam planejamento e execução eficazes de atividades interligadas, sempre com recursos limitados. Para garantir entregas consistentes ao longo do tempo, as organizações precisam investir em capacitação e padronização de suas operações. A modelagem de projetos e processos visa aumentar a eficiência, competitividade e sustentabilidade no mercado. Instituições renomadas, como o PMI e a IPMA, oferecem “boas práticas” para a gestão de projetos, que ajudam profissionais e organizações a desenvolverem seus próprios métodos. Neste curso, você aprenderá técnicas essenciais para gerenciar escopo, cronograma, custos e riscos, além de utilizar ferramentas como o BIZAGI Modeler para mapear e melhorar processos. Capacite-se com as melhores práticas do mercado e eleve sua performance organizacional!
+
+## Para quem é o curso
+- Gestores, profissionais de tecnologia da informação, análise de sistemas e programadores, engenheiros, economistas, administradores, advogados e outros que desejam realizar um curso que os prepare na prática para gerenciarem projetos e processos estando aptos para as oportunidades de empregabilidade e trabalho.
 
 ## O que você vai fazer no curso
 - Aprender sobre as principais abordagens e metodologias para gerenciar projetos, com foco nas melhores práticas recomendadas por instituições como o PMI e a IPMA.
@@ -135,6 +138,3 @@ As ementas poderão ser ajustadas conforme demandas de mercado, novas legislaç�
    - Funções principais para utilização da Inteligência Artificial (IA) e o que não é possível realizar com a IA
    - Ferramentas de inteligência artificial do mercado e suas funções principais
    - Aplicação de uma ferramenta na gestão de projeto
-
-## Coordenação
-*Professore titulares, sujeitos a alterações.

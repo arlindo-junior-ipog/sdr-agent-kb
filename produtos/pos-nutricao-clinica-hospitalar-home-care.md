@@ -12,7 +12,7 @@ curso_id: 1323
 - **Tipo:** Pós-Graduação
 - **Carga horária:** 360 horas
 - **Modalidade:** EaD
-- **Formato (conforme o material):** 12 módulos; - Videoaulas autorais; - Slides; - Material complementar; (curadoria de conteúdo); - Práticas on-line assíncronas
+- **Formato (conforme o material):** 12 módulos; Videoaulas autorais; Slides; Material complementar; (curadoria de conteúdo); Práticas on-line assíncronas
 
 ## Sobre o curso
 O curso de Pós-Graduação em Nutrição Hospitalar e Home Care prepara nutricionistas para atender à crescente demanda por profissionais especializados no cuidado clínico nutricional em hospitais e domicílios. A atuação nesse campo é estratégica, especialmente diante do aumento de doenças crônicas e do envelhecimento da população, o que exige atenção e conhecimento técnico. Com professores renomados e conteúdos atualizados, o curso capacita para avaliação e manejo nutricional em diferentes contextos clínicos, promovendo o desenvolvimento de planos de cuidado individualizados e eficazes. Além disso, inclui práticas de gastronomia hospitalar e comfort food, melhorando a aceitação alimentar e humanizando o atendimento. A formação oferece materiais exclusivos, discussão de casos reais e flexibilidade com aulas gravadas e interação direta com professores. Essa é uma oportunidade de excelência para profissionais que desejam transformar conhecimento em uma vantagem competitiva no mercado.
@@ -21,14 +21,10 @@ O curso de Pós-Graduação em Nutrição Hospitalar e Home Care prepara nutrici
 - Nutricionistas recém-formados; nutricionistas que já atuam na área hospitalar; nutricionistas que buscam aperfeiçoamento e atualização em nutrição clínica hospitalar; nutricionistas interessados em iniciar no serviço de Home Care.
 
 ## O que você vai fazer no curso
-- Desenvolver habilidades práticas em consultório, ambiente manejo nutricional de pacientes
-- Aprender métodos de avaliação os mais adequados para cada estratégias para personalizar
-- Capacitar-se em terapia nutricional enteral e parenteral, contribuindo colaborando em equipes multiprofissionais
-- Explorar técnicas de gastronomia atendimento, visando melhorar hospitalizados e promover
-- e clínicas para atuar com excelência hospitalar e Home Care, capacitando-se no com diversas condições de saúde
-- nutricional avançados, selecionando patologia e situação clínica, e aplicando o plano de cuidados
-- completa, incluindo nutrição oral, para desfechos clínicos favoráveis e
-- hospitalar e humanização do a aceitação alimentar de pacientes um cuidado nutricional diferenciado
+- Desenvolver habilidades práticas e clínicas para atuar com excelência em consultório, ambiente hospitalar e Home Care, capacitando-se no manejo nutricional de pacientes com diversas condições de saúde
+- Aprender métodos de avaliação nutricional avançados, selecionando os mais adequados para cada patologia e situação clínica, e aplicando estratégias para personalizar o plano de cuidados
+- Capacitar-se em terapia nutricional completa, incluindo nutrição oral, enteral e parenteral, contribuindo para desfechos clínicos favoráveis e colaborando em equipes multiprofissionais
+- Explorar técnicas de gastronomia hospitalar e humanização do atendimento, visando melhorar a aceitação alimentar de pacientes hospitalizados e promover um cuidado nutricional diferenciado
 
 ## Módulos (ementa resumida)
 As ementas poderão ser ajustadas conforme demandas de mercado, novas legislações, novos cenários e contextos.
