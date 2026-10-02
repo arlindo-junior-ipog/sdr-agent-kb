@@ -12,8 +12,8 @@ curso_id: 1424
 - **Tipo:** Curso de Extensão Universitária
 - **Carga horária:** 20 horas
 - **Modalidade:** On-line e Ao Vivo | Presencial
-- **Formato — On-line e Ao Vivo (conforme o material):** 3 módulos; Aulas On-line e Ao Vivo via plataforma Zoom; Confirme com seu consultor as datas e horários das aulas.; Diferenciais do curso; Formato imersivo, com carga horária intensiva; Aprendizado 100% prático com foco em aplicação real; Ferramentas atualizadas e contextualizadas por setor de atuação; Estudo de casos personalizados; Oficina de desenvolvimento de soluções com IA
-- **Formato — Presencial (conforme o material):** 3 módulos; Aulas presenciais; Confirme com seu consultor as datas e horários das aulas.; Diferenciais do curso; Formato imersivo, com carga horária intensiva; Aprendizado 100% prático com foco em aplicação real; Ferramentas atualizadas e contextualizadas por setor de atuação; Estudo de casos personalizados; Oficina de desenvolvimento de soluções com IA
+- **Formato — On-line e Ao Vivo (conforme o material):** 3 módulos; Aulas On-line e Ao Vivo via plataforma Zoom; Confirme com seu consultor as datas e horários das aulas.
+- **Formato — Presencial (conforme o material):** 3 módulos; Aulas presenciais; Confirme com seu consultor as datas e horários das aulas.
 - **Atividades práticas:** As atividades práticas acontecem utilizando o modelo de Sala de Aula Invertida. Trata-se do estudo do conteúdo organizado pelo professor, com a realização de atividades de ancoragem e preparatórias que envolvem cases temáticos e aplicação de ferramentas, potencializando a aprendizagem e retenção do conteúdo durante as aulas ao vivo. 20 horas 3 módulos
 
 ## Sobre o curso
